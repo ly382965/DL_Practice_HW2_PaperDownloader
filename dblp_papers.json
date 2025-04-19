@@ -1,0 +1,3504 @@
+{
+  "scientist": "Feng Zhao",
+  "profile_url": "https://dblp.org/pid/181/2734",
+  "papers": [
+    {
+      "authors": [
+        "Mengxue Pang",
+        "Lei Liu",
+        "Feng Zhao",
+        "Bin Fu",
+        "Limei Zhang",
+        "Lishan Qiao"
+      ],
+      "title": "Learning discriminative functional connectivity networks for identifying Autism spectrum disorder.",
+      "venue": {
+        "name": "Biomed. Signal Process. Control.",
+        "volume": "104"
+      },
+      "arxiv_link": "https://doi.org/10.1002/cpe.8345",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Qiang Li",
+        "Feng Zhao",
+        "Linlin Zhao",
+        "Maokai Liu",
+        "Yubo Wang",
+        "Shuo Zhang",
+        "Yuanyuan Guo",
+        "Shunlu Wang",
+        "Weigang Wang"
+      ],
+      "title": "A System of Multimodal Image-Text Retrieval Based on Pre-Trained Models Fusion.",
+      "venue": {
+        "name": "Concurr. Comput. Pract. Exp.",
+        "volume": "37"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.csi.2024.103876",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Faisal Mehmood",
+        "Abdullah Ayub Khan",
+        "Han Wang",
+        "Shahid Karim",
+        "Umara Khalid",
+        "Feng Zhao"
+      ],
+      "title": "BLPCA-ledger: A lightweight plenum consensus protocols for consortium blockchain based on the hyperledger indy.",
+      "venue": {
+        "name": "Comput. Stand. Interfaces",
+        "volume": "91"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.engappai.2025.110082",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Gang Hu",
+        "Feng Zhao",
+        "Essam H. Houssein"
+      ],
+      "title": "Competitive dual-students using bi-level contrastive learning for semi-supervised medical image segmentation.",
+      "venue": {
+        "name": "Eng. Appl. Artif. Intell.",
+        "volume": "144"
+      },
+      "arxiv_link": "https://doi.org/10.1080/10095020.2024.2313329",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Weishu Gong",
+        "Chengquan Huang",
+        "Feng Zhao",
+        "Jiaming Lu"
+      ],
+      "title": "Estimation of annual harvested wood products based on remote sensing and TPO survey data.",
+      "venue": {
+        "name": "Geo spatial Inf. Sci.",
+        "volume": "28"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s44196-025-00768-w",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Xiliang Li",
+        "Shuoru Chen",
+        "Xiaoyan Qiao",
+        "Mingli Zhang",
+        "Caiming Zhang",
+        "Feng Zhao"
+      ],
+      "title": "Multi-perspective Learning Based on Transformer for Stock Price Trend.",
+      "venue": {
+        "name": "Int. J. Comput. Intell. Syst.",
+        "volume": "18"
+      },
+      "arxiv_link": "https://doi.org/10.7717/peerj-cs.2668",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Dapeng Cheng",
+        "Minghui Zhu",
+        "Bo Yang",
+        "Xiaolian Gao",
+        "Wanting Jing",
+        "Yanyan Mao",
+        "Feng Zhao"
+      ],
+      "title": "MFI-Net: multi-level feature invertible network image concealment technique.",
+      "venue": {
+        "name": "PeerJ Comput. Sci.",
+        "volume": "11"
+      },
+      "arxiv_link": "https://doi.org/10.12694/scpe.v26i2.3892",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Qiang Li",
+        "Feng Zhao",
+        "Pan Gao",
+        "Huanhuan Li",
+        "Linfeng Ye"
+      ],
+      "title": "Research on Intention Recognition Methods based on Deep Learning.",
+      "venue": {
+        "name": "Scalable Comput. Pract. Exp.",
+        "volume": "26"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TIE.2024.3454471",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Wei Wang",
+        "Chenchen Fang",
+        "Feng Zhao",
+        "Lili He",
+        "Daixin Chen",
+        "Zhikang Shuai",
+        "Zheng John Shen"
+      ],
+      "title": "A Self-Powered Bidirectional DC Solid-State Circuit Breaker Based on SiC JFETs for DC Microgrids.",
+      "venue": {
+        "name": "IEEE Trans. Ind. Electron.",
+        "volume": "72"
+      },
+      "arxiv_link": "https://aclanthology.org/2025.coling-main.150/",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Zhilu Zhang",
+        "Cheng Yan",
+        "Xianggan Liu"
+      ],
+      "title": "Commonsense Subgraph for Inductive Relation Reasoning with Meta-learning.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2501.15085",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Xianyuan Zhan",
+        "Xiangyu Zhu",
+        "Peng Cheng",
+        "Xiao Hu",
+        "Ziteng He",
+        "Hanfei Geng",
+        "Jichao Leng",
+        "Huiwen Zheng",
+        "Chenhui Liu",
+        "Tianshun Hong",
+        "Yan Liang",
+        "Yunxin Liu",
+        "Feng Zhao"
+      ],
+      "title": "Data Center Cooling System Optimization Using Offline Reinforcement Learning.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2501.15085"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2502.07403",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Zicheng Shen",
+        "Feng Zhao",
+        "Yibo Ni",
+        "Yuanmu Yang"
+      ],
+      "title": "Extended monocular 3D imaging.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2502.07403"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2502.18017",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Qiuchen Wang",
+        "Ruixue Ding",
+        "Zehui Chen",
+        "Weiqi Wu",
+        "Shihang Wang",
+        "Pengjun Xie",
+        "Feng Zhao"
+      ],
+      "title": "ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2502.18017"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2503.07120",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Zhen Zou",
+        "Hu Yu",
+        "Jie Xiao",
+        "Feng Zhao"
+      ],
+      "title": "Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2503.07120"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2024.3494767",
+      "year": "2025"
+    },
+    {
+      "authors": [
+        "Qiang Li",
+        "Feng Zhao",
+        "Weiping Song",
+        "Yu Li",
+        "Qiang Zhang",
+        "Xiaowei Fu"
+      ],
+      "title": "Optimal Integrated Energy Scheduling for Industrial Customers Based on a Bi-Level Programming.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "12"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.jag.2024.103854",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Rui Tu",
+        "Xiaolei Wang",
+        "Nan Xu",
+        "Junqiang Han",
+        "Tao Wang",
+        "Weisheng Wang",
+        "Feng Zhao",
+        "Bayin Dalai",
+        "Gulayozov Majid Shonazarovich"
+      ],
+      "title": "Integrated study of water levels and water storage variations using GNSS-MR and remote Sensing: A case study of Sarez Lake, the world's Highest-Altitude dammed lake.",
+      "venue": {
+        "name": "Int. J. Appl. Earth Obs. Geoinformation",
+        "volume": "129"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.jag.2024.104240",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Mateen Tariq",
+        "Weiwei Ma",
+        "Zhenfeng Wu",
+        "Yanshun Zhang"
+      ],
+      "title": "An enhanced method for reconstruction of full SIF spectrum for near-ground measurements.",
+      "venue": {
+        "name": "Int. J. Appl. Earth Obs. Geoinformation",
+        "volume": "134"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s10462-024-10919-8",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Gang Hu",
+        "Feng Zhao",
+        "Abdelazim G. Hussien",
+        "Jingyu Zhong",
+        "Essam H. Houssein"
+      ],
+      "title": "Ameliorated Fick's law algorithm based multi-threshold medical image segmentation.",
+      "venue": {
+        "name": "Artif. Intell. Rev.",
+        "volume": "57"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.compbiomed.2024.108054",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Na Li",
+        "Jinjie Xiao",
+        "Ning Mao",
+        "Dapeng Cheng",
+        "Xiaobo Chen",
+        "Feng Zhao",
+        "Zhenghao Shi"
+      ],
+      "title": "Joint learning of multi-level dynamic brain networks for autism spectrum disorder diagnosis.",
+      "venue": {
+        "name": "Comput. Biol. Medicine",
+        "volume": "171"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.compag.2024.109232",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Zhengang Lv",
+        "Binyuan Xu",
+        "Liheng Zhong",
+        "Gengshen Chen",
+        "Zehua Huang",
+        "Rui Sun",
+        "Wei Huang",
+        "Feng Zhao",
+        "Ran Meng"
+      ],
+      "title": "Improved monitoring of southern corn rust using UAV-based multi-view imagery and an attention-based deep learning method.",
+      "venue": {
+        "name": "Comput. Electron. Agric.",
+        "volume": "224"
+      },
+      "arxiv_link": "https://doi.org/10.1109/JIOT.2023.3301731",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Bohong Wang",
+        "Qinglai Guo",
+        "Tian Xia",
+        "Qiang Li",
+        "Di Liu",
+        "Feng Zhao"
+      ],
+      "title": "Cooperative IoT Data Sharing With Heterogeneity of Participants Based on Electricity Retail.",
+      "venue": {
+        "name": "IEEE Internet Things J.",
+        "volume": "11"
+      },
+      "arxiv_link": "https://doi.org/10.3233/JCM-247495",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Rui Li",
+        "Feng Zhao",
+        "Boyu Zhao"
+      ],
+      "title": "Digital development of manufacturing industry in Yangtze River Delta based on fuzzy control model.",
+      "venue": {
+        "name": "J. Comput. Methods Sci. Eng.",
+        "volume": "24"
+      },
+      "arxiv_link": "https://doi.org/10.1515/jisys-2023-0292",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "Deep reinforcement learning enhances artistic creativity: The case study of program art students integrating computer deep learning.",
+      "venue": {
+        "name": "J. Intell. Syst.",
+        "volume": "33"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.knosys.2024.111697",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Wen Jiang",
+        "Mengyang Liu",
+        "Mingyan Xu",
+        "Shuoru Chen",
+        "Kai Shi",
+        "Pingping Liu",
+        "Caiming Zhang",
+        "Feng Zhao"
+      ],
+      "title": "New reinforcement learning based on representation transfer for portfolio management.",
+      "venue": {
+        "name": "Knowl. Based Syst.",
+        "volume": "293"
+      },
+      "arxiv_link": "https://doi.org/10.1017/s0263574724000511",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Shaohu Li",
+        "Jason Gu",
+        "Zhijun Li",
+        "Shaofeng Li",
+        "Bixiang Guo",
+        "Shangbing Gao",
+        "Feng Zhao",
+        "Yuwei Yang",
+        "Guoxin Li",
+        "Lanfang Dong"
+      ],
+      "title": "A visual SLAM-based lightweight multi-modal semantic framework for an intelligent substation robot.",
+      "venue": {
+        "name": "Robotica",
+        "volume": "42"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11760-024-03539-w",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Qiqi Wang",
+        "Jie Zhang",
+        "Jianming Du",
+        "Ke Zhang",
+        "Rui Li",
+        "Feng Zhao",
+        "Le Zou",
+        "Chengjun Xie"
+      ],
+      "title": "A fine-tuned multimodal large model for power defect image-text question-answering.",
+      "venue": {
+        "name": "Signal Image Video Process.",
+        "volume": "18"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TGRS.2024.3359350",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Aiyue Liu",
+        "Yuhai Liu",
+        "Kuidong Xu",
+        "Feng Zhao",
+        "Yuan Zhou",
+        "Xiaofeng Li"
+      ],
+      "title": "DeepSeaNet: A Bio-Detection Network Enabling Species Identification in the Deep Sea Imagery.",
+      "venue": {
+        "name": "IEEE Trans. Geosci. Remote. Sens.",
+        "volume": "62"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TIM.2023.3348883",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Jiaqi Cui",
+        "Gang Ming",
+        "Fang Wang",
+        "Junyao Li",
+        "Pengfei Wang",
+        "Songbai Kang",
+        "Feng Zhao",
+        "Da Zhong",
+        "Ganghua Mei"
+      ],
+      "title": "Realization of a Rubidium Atomic Frequency Standard With Short-Term Stability in 10-14τ-1/2 Level.",
+      "venue": {
+        "name": "IEEE Trans. Instrum. Meas.",
+        "volume": "73"
+      },
+      "arxiv_link": "https://doi.org/10.1177/01423312241235717",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Xing Xu",
+        "Zhongwei Wu",
+        "Shenguang He",
+        "Pengwei Su",
+        "Feng Zhao"
+      ],
+      "title": "Fault detection and fault-tolerant control of dual-motor autonomous steering system.",
+      "venue": {
+        "name": "Trans. Inst. Meas. Control",
+        "volume": "46"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TMM.2024.3402534",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Jingyu Zhong",
+        "Ronghua Shang",
+        "Feng Zhao",
+        "Weitong Zhang",
+        "Songhua Xu"
+      ],
+      "title": "Negative Label and Noise Information Guided Disambiguation for Partial Multi-Label Learning.",
+      "venue": {
+        "name": "IEEE Trans. Multim.",
+        "volume": "26"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3597641",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Han Wang",
+        "Hui Li",
+        "Abla Smahi",
+        "Feng Zhao",
+        "Yao Yao",
+        "Ching Chuen Chan",
+        "Shiyu Wang",
+        "Wenyuan Yang",
+        "Shuo-Yen Robert Li"
+      ],
+      "title": "MIS: A Multi-Identifier Management and Resolution System in the Metaverse.",
+      "venue": {
+        "name": "ACM Trans. Multim. Comput. Commun. Appl.",
+        "volume": "20"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TSMC.2023.3321115",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Haiquan Zhao",
+        "Gen Wang",
+        "Feng Zhao",
+        "Dongxu Liu",
+        "Pucha Song"
+      ],
+      "title": "Recursive General Mixed Norm Algorithm for Censored Regression: Performance Analysis and Channel Equalization Application.",
+      "venue": {
+        "name": "IEEE Trans. Syst. Man Cybern. Syst.",
+        "volume": "54"
+      },
+      "arxiv_link": "https://doi.org/10.1109/BIBM62325.2024.10821891",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Ruipeng Xu",
+        "Shuoqiu Gan",
+        "Feng Zhao",
+        "Zhentao Zuo",
+        "Tiangang Zhou"
+      ],
+      "title": "Bimodality Approach to Mental Disorder Diagnosis via Dual-pathway Fusion Perceptual Network.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CVPRW63382.2024.00603",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Zhen Zou",
+        "Wei Yu",
+        "Jie Huang",
+        "Feng Zhao"
+      ],
+      "title": "Semantic Pre-supplement for Exposure Correction.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-031-72848-8_22",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Hu Yu",
+        "Li Shen",
+        "Jie Huang",
+        "Hongsheng Li",
+        "Feng Zhao"
+      ],
+      "title": "Unmasking Bias in Diffusion Model Training.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICCEIC64099.2024.10775918",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Tianyu Zheng",
+        "Tianyu Xu",
+        "Xiangdong Li",
+        "Xingwen Zhao",
+        "Feng Zhao",
+        "Yanbo Zhang"
+      ],
+      "title": "Improved AOD-Net Dehazing Algorithm for Target Image.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICONS62911.2024.00013",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Harshvardhan Uppaluru",
+        "Md. Mehedi Hasan Tanim",
+        "Md. Omar Faruque",
+        "Mohammed Rafeeq Khan",
+        "Zoe Templin",
+        "Feng Zhao",
+        "Jinhui Wang"
+      ],
+      "title": "Variation-Aware Non-linear Mapping for Honey-Memristor Based Neuromorphic System.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3673038.3673144",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Hanfei Geng",
+        "Yi Sun",
+        "Yuanzhe Li",
+        "Jichao Leng",
+        "Xiangyu Zhu",
+        "Xianyuan Zhan",
+        "Yuanchun Li",
+        "Feng Zhao",
+        "Yunxin Liu"
+      ],
+      "title": "TESLA: Thermally Safe, Load-Aware, and Energy-Efficient Cooling Control System for Data Centers.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IoTAAI62601.2024.10692590",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Qiang Li",
+        "Feng Zhao",
+        "Linlin Zhao",
+        "Xuhong Qin",
+        "Yubo Wang",
+        "Yana Zhu"
+      ],
+      "title": "Digital Twin System Based on Swarm Intelligence Scheduling.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2402.06326",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Xi Chen",
+        "Siwei Zhang",
+        "Yun Xiong",
+        "Xixi Wu",
+        "Jiawei Zhang",
+        "Xiangguo Sun",
+        "Yao Zhang",
+        "Feng Zhao",
+        "Yulin Kang"
+      ],
+      "title": "Prompt Learning on Temporal Interaction Graphs.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2402.06326"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2406.19030",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Jiangtong Tan",
+        "Feng Zhao"
+      ],
+      "title": "Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2406.19030"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2412.21063",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Siyang Wang",
+        "Feng Zhao"
+      ],
+      "title": "Varformer: Adapting VAR's Generative Prior for Image Restoration.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2412.21063"
+      },
+      "arxiv_link": "https://doi.org/10.1186/s12859-023-05315-y",
+      "year": "2024"
+    },
+    {
+      "authors": [
+        "Peiqiang Liu",
+        "Chang Liu",
+        "Yanyan Mao",
+        "Junhong Guo",
+        "Fanshu Liu",
+        "Wangmin Cai",
+        "Feng Zhao"
+      ],
+      "title": "Identification of essential proteins based on edge features and the fusion of multiple-source biological information.",
+      "venue": {
+        "name": "BMC Bioinform.",
+        "volume": "24"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.cmpb.2022.107330",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Weiwei Yu",
+        "Feng Zhao",
+        "Zhijun Ren",
+        "Dian Jin",
+        "Xinliang Yang",
+        "Xiaokun Zhang"
+      ],
+      "title": "Mining attention distribution paradigm: Discover gaze patterns and their association rules behind the visual image.",
+      "venue": {
+        "name": "Comput. Methods Programs Biomed.",
+        "volume": "230"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.engappai.2023.106513",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Peng Zhang",
+        "Ran Zhang",
+        "Mengwei Li"
+      ],
+      "title": "DGFaceNet: Lightweight and efficient face recognition.",
+      "venue": {
+        "name": "Eng. Appl. Artif. Intell.",
+        "volume": "124"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.eswa.2023.120575",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Yuan Li",
+        "Ying Zou",
+        "Hanning Guo",
+        "Yongqing Yang",
+        "Na Li",
+        "Linhao Li",
+        "Feng Zhao"
+      ],
+      "title": "Identification of Mild cognitive impairment based on quadruple GCN model constructed with multiple features from higher-order brain connectivity.",
+      "venue": {
+        "name": "Expert Syst. Appl.",
+        "volume": "230"
+      },
+      "arxiv_link": "https://doi.org/10.3389/fbinf.2023.1210157",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Linghao Hu",
+        "Blanche Ter Hofstede",
+        "Dhavan Sharma",
+        "Feng Zhao",
+        "Alex J. Walsh"
+      ],
+      "title": "Comparison of phasor analysis and biexponential decay curve fitting of autofluorescence lifetime imaging data for machine learning prediction of cellular phenotypes.",
+      "venue": {
+        "name": "Frontiers Bioinform.",
+        "volume": "3"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.future.2023.05.032",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Ji Liu",
+        "Zhihua Wu",
+        "Danlei Feng",
+        "Minxu Zhang",
+        "Xinxuan Wu",
+        "Xuefeng Yao",
+        "Dianhai Yu",
+        "Yanjun Ma",
+        "Feng Zhao",
+        "Dejing Dou"
+      ],
+      "title": "HeterPS: Distributed deep learning with reinforcement learning based scheduling in heterogeneous environments.",
+      "venue": {
+        "name": "Future Gener. Comput. Syst.",
+        "volume": "148"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.fss.2023.108578",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jigui Jian",
+        "Baoxian Wang"
+      ],
+      "title": "Finite-time synchronization of fractional-order delayed memristive fuzzy neural networks.",
+      "venue": {
+        "name": "Fuzzy Sets Syst.",
+        "volume": "467"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.phycom.2023.102180",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Shijia Li",
+        "Chunhai Li",
+        "Feng Zhao",
+        "Huiyi Zhou"
+      ],
+      "title": "User group-based pilot allocation and data power optimization in cell-free massive MIMO for coexistence of UAVs and ground users.",
+      "venue": {
+        "name": "Phys. Commun.",
+        "volume": "61"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs15194773",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Junqiang Han",
+        "Rui Tu",
+        "Xiaochun Lu",
+        "Lihong Fan",
+        "Wenquan Zhuang",
+        "Weisheng Wang",
+        "Feng Zhao",
+        "Bayin Dalai",
+        "Gulayozov Majid Shonazarovich",
+        "Mustafo Safarov"
+      ],
+      "title": "Analysis of BDS/GPS Deformation Monitoring for the Lake Sarez Dam.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "15"
+      },
+      "arxiv_link": "https://doi.org/10.3390/s23249828",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Mason McGarrity",
+        "Feng Zhao"
+      ],
+      "title": "Graphene-Based Chemiresistor Sensors for Drinking Water Quality Monitoring.",
+      "venue": {
+        "name": "Sensors",
+        "volume": "23"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3641584.3641687",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Zhenyu He",
+        "Feng Zhao",
+        "Xvfan Ding"
+      ],
+      "title": "A Novel ECG - based identification scheme for wearable devices.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3641584.3641806",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Xvfan Ding",
+        "Feng Zhao",
+        "Yani Qiao",
+        "Zhenyu He"
+      ],
+      "title": "Variance Value Stream Data Publishing Based on Differential Privacy Under Wearable Devices.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/BCCA58897.2023.10338901",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Han Wang",
+        "Hui Li",
+        "Zixian Wang",
+        "Feng Zhao",
+        "Yao Yao",
+        "Yuhong Chen",
+        "Tuanfa Qin",
+        "Ping Lu",
+        "Jiaoli Shi"
+      ],
+      "title": "Optimizing Read Performance in Lightweight Blockchain with Cooperative Storage Scheme.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/Blockchain60715.2023.00033",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Hui Li",
+        "Shaoliang Peng",
+        "Xiyu Wang",
+        "Ping Lu",
+        "Qianbin Chen",
+        "Weixiang Huang",
+        "Jianping Wu",
+        "Xiang Zhu",
+        "Selwyn Deng",
+        "Hanxu Hou",
+        "Jieren Cheng",
+        "Han Wang"
+      ],
+      "title": "EMIS: A Uniform Management and Resolution System of Multiple Identifiers on Ethereum.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-031-30678-5_41",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Yangyang Hou",
+        "Daixin Wang",
+        "Binbin Hu",
+        "Ruoyu Zhuang",
+        "Zhiqiang Zhang",
+        "Jun Zhou",
+        "Feng Zhao",
+        "Yulin Kang",
+        "Zhanwen Qiao"
+      ],
+      "title": "Unsupervised Fraud Transaction Detection on Dynamic Attributed Networks.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/DRC58590.2023.10186891",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Yuan Xing",
+        "Feng Zhao"
+      ],
+      "title": "Natural Organic Fructose-based Nonvolatile Resistive Switching Memory for Environmental Sustainability in Computing.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICMLA58977.2023.00246",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Abdi Yamil Vicenciodelmoral",
+        "Md. Mehedi Hasan Tanim",
+        "Feng Zhao",
+        "Xinghui Zhao"
+      ],
+      "title": "A Machine Learning Approach to Support Neuromorphic Device Design and Microfabrication.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-031-46005-0_12",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Chunli Sun",
+        "Qinghai Guo",
+        "Gang Yang",
+        "Feng Zhao"
+      ],
+      "title": "Learning Task-Specific Morphological Representation for Pyramidal Cells via Mutual Information Minimization.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/MWSCAS57524.2023.10406015",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Jinhui Wang",
+        "Feng Zhao",
+        "Mohammed Rafeeq Khan",
+        "Md. Mehedi Hasan Tanim",
+        "Zoe Templin"
+      ],
+      "title": "Three-dimensional Environmentally Sustainable Neuromorphic Computing System Based on Natural Organic Memristor.",
+      "venue": {},
+      "arxiv_link": "http://papers.nips.cc/paper_files/paper/2023/hash/e66309ead63bc1410d2df261a28f602d-Abstract-Conference.html",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Hu Yu",
+        "Jie Huang",
+        "Lingzhi Li",
+        "Man Zhou",
+        "Feng Zhao"
+      ],
+      "title": "Deep Fractional Fourier Transform.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2304.07990",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Mikhail A. Bragin",
+        "Farhan Hyder",
+        "Bing Yan",
+        "Peter B. Luh",
+        "Jinye Zhao",
+        "Feng Zhao",
+        "Dane A. Schiro",
+        "Tongxin Zheng"
+      ],
+      "title": "Novel Quality Measure and Efficient Resolution of Convex Hull Pricing for Unit Commitment.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2304.07990"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2305.20024",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Bohong Wang",
+        "Qinglai Guo",
+        "Tian Xia",
+        "Qiang Li",
+        "Di Liu",
+        "Feng Zhao"
+      ],
+      "title": "Cooperative IoT Data Sharing with Heterogeneity of Participants Based on Electricity Retail.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2305.20024"
+      },
+      "arxiv_link": "https://doi.org/10.48550/arXiv.2310.08442",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Hu Yu",
+        "Li Shen",
+        "Jie Huang",
+        "Man Zhou",
+        "Hongsheng Li",
+        "Feng Zhao"
+      ],
+      "title": "Debias the Training of Diffusion Models.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2310.08442"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.aam.2021.102300",
+      "year": "2023"
+    },
+    {
+      "authors": [
+        "Tongyuan Zhao",
+        "Yue Sun",
+        "Feng Zhao"
+      ],
+      "title": "Refined Eulerian numbers and ballot permutations.",
+      "venue": {
+        "name": "Adv. Appl. Math.",
+        "volume": "134"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2022.3150862",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Peng Zhang",
+        "Feng Zhao",
+        "Peng Liu",
+        "Mengwei Li"
+      ],
+      "title": "Efficient Lightweight Attention Network for Face Recognition.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "10"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.amc.2022.127479",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Qingdong Sun",
+        "Junchao Ren",
+        "Feng Zhao"
+      ],
+      "title": "Sliding mode control of discrete-time interval type-2 fuzzy Markov jump systems with the preview target signal.",
+      "venue": {
+        "name": "Appl. Math. Comput.",
+        "volume": "435"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.cmpb.2022.107107",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Weiwei Yu",
+        "Dian Jin",
+        "Wenfeng Cai",
+        "Feng Zhao",
+        "Xiaokun Zhang"
+      ],
+      "title": "Towards tacit knowledge mining within context: Visual cognitive graph model and eye movement image interpretation.",
+      "venue": {
+        "name": "Comput. Methods Programs Biomed.",
+        "volume": "226"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.csi.2021.103602",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Huifang Yu",
+        "Junze Liu",
+        "Zhicang Wang",
+        "Feng Zhao"
+      ],
+      "title": "Certificateless ring signcryption for multi-source network coding.",
+      "venue": {
+        "name": "Comput. Stand. Interfaces",
+        "volume": "81"
+      },
+      "arxiv_link": "https://doi.org/10.1080/17538947.2022.2092658",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Decheng Wang",
+        "Feng Zhao",
+        "Hui Yi",
+        "Yinan Li",
+        "Xiangning Chen"
+      ],
+      "title": "An unsupervised heterogeneous change detection method based on image translation network and post-processing algorithm.",
+      "venue": {
+        "name": "Int. J. Digit. Earth",
+        "volume": "15"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.knosys.2022.108176",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Bo Li",
+        "Qi Wang",
+        "Yuan Yu",
+        "Meng-Ze Sun",
+        "Liang-Xia Chen",
+        "Zhongliang Xiang",
+        "Feng Zhao",
+        "Qingcong Lv",
+        "Zhiyong An"
+      ],
+      "title": "A novel risk-control model for the online portfolio selection of high-frequency transactions.",
+      "venue": {
+        "name": "Knowl. Based Syst.",
+        "volume": "240"
+      },
+      "arxiv_link": "https://doi.org/10.1109/MNET.001.2100757",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Peng Liu",
+        "Feng Zhao"
+      ],
+      "title": "Millimeter-Wave mMIMO-NOMA Communication System Design in a Complex Blocking Environment.",
+      "venue": {
+        "name": "IEEE Netw.",
+        "volume": "36"
+      },
+      "arxiv_link": "https://doi.org/10.3390/s22166186",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Gujing Han",
+        "Tao Li",
+        "Qiang Li",
+        "Feng Zhao",
+        "Min Zhang",
+        "Ruijie Wang",
+        "Qiwei Yuan",
+        "Kaipei Liu",
+        "Liang Qin"
+      ],
+      "title": "Improved Algorithm for Insulator and Its Defect Detection Based on YOLOX.",
+      "venue": {
+        "name": "Sensors",
+        "volume": "22"
+      },
+      "arxiv_link": "https://doi.org/10.1109/BDCAT56447.2022.00026",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Abdi Yamil Vicenciodelmoral",
+        "Md. Mehedi Hasan Tanim",
+        "Feng Zhao",
+        "Xinghui Zhao"
+      ],
+      "title": "Supporting Green Neuromorphic Computing: Machine Learning Guided Microfabrication for Resistive Random Access Memory.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/BDCAT56447.2022.00034",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Md. Mehedi Hasan Tanim",
+        "Abdi Yamil Vicenciodelmoral",
+        "Zoe Templin",
+        "Xinghui Zhao",
+        "Feng Zhao"
+      ],
+      "title": "Honey-CNT based Resistive Switching Device for Neuromorphic Computing Applications.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3572549.3572601",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Weiwei Yu",
+        "Jacques Bangamwabo",
+        "Feng Zhao",
+        "Xiaokun Zhang"
+      ],
+      "title": "Analysis of Learner's Behavior in Online Video Course Based on Eye Movement Tracking.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3072197",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Ruihong Li",
+        "Fan Yang",
+        "Dezhao Lin",
+        "Chenghong Li",
+        "Hongwei Chen",
+        "Wenbo Qian",
+        "Sheng Jia",
+        "Feng Zhao"
+      ],
+      "title": "Dynamic Properties Analysis of a New Kind of Inter-Connected Hydro-Pneumatic Strut.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3085980",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhengxiang Zhang",
+        "Haibin Zhou",
+        "Dongsheng Liu",
+        "Feng Zhao",
+        "Wentao Li",
+        "Chao Tang"
+      ],
+      "title": "The Effect of Nano-Silica Modified With Silane Coupling Agents on the Diffusion Behavior of Water Molecules in Palm Oil Based on Molecular Simulation.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3133664",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Hui Yi",
+        "Xiangning Chen",
+        "Decheng Wang",
+        "Shuhan Du",
+        "Bijie Xu",
+        "Feng Zhao"
+      ],
+      "title": "An Epipolar Resampling Method for Multi-View High Resolution Satellite Images Based on Block.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.3390/e23010065",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Min Ye",
+        "Shao-Lun Huang"
+      ],
+      "title": "Exact Recovery of Stochastic Block Model by Ising Model.",
+      "venue": {
+        "name": "Entropy",
+        "volume": "23"
+      },
+      "arxiv_link": "https://doi.org/10.1371/journal.pcbi.1009255",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Lara Goscé",
+        "Gerard J. Abou Jaoude",
+        "David Jacob Kedziora",
+        "Clemens Benedikt",
+        "Azfar Hussain",
+        "Sarah Jarvis",
+        "Alena Skrahina",
+        "Dzmitry Klimuk",
+        "Henadz Hurevich",
+        "Feng Zhao",
+        "Nicole Fraser-Hurt",
+        "Nejma Cheikh",
+        "Marelize Gorgens",
+        "David J. Wilson",
+        "Romesh G. Abeysuriya",
+        "Rowan Martin-Hughes",
+        "Sherrie L. Kelly",
+        "Anna Roberts",
+        "Robyn M. Stuart",
+        "Tom Palmer",
+        "Jasmina Panovska-Griffiths",
+        "Cliff C. Kerr",
+        "David P. Wilson",
+        "Hassan Haghparast-Bidgoli",
+        "Jolene Skordis",
+        "Ibrahim Abubakar"
+      ],
+      "title": "Optima TB: A tool to help optimally allocate tuberculosis spending.",
+      "venue": {
+        "name": "PLoS Comput. Biol.",
+        "volume": "17"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs13081535",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Fugen Jiang",
+        "Feng Zhao",
+        "Kaisen Ma",
+        "Dongsheng Li",
+        "Hua Sun"
+      ],
+      "title": "Mapping the Forest Canopy Height in Northern China by Synergizing ICESat-2 with Sentinel-2 Using a Stacking Algorithm.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "13"
+      },
+      "arxiv_link": "https://www.scpe.org/index.php/scpe/article/view/1881",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhifeng Hu",
+        "Feng Zhao",
+        "Lina Qin",
+        "Hongkai Lin"
+      ],
+      "title": "Network Virus and Computer Network Security Detection Technology Optimization.",
+      "venue": {
+        "name": "Scalable Comput. Pract. Exp.",
+        "volume": "22"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TCSII.2021.3079153",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Haiquan Zhao",
+        "Feng Zhao",
+        "Gen Wang",
+        "Lijun Zhou",
+        "Pucha Song"
+      ],
+      "title": "Affine Projection Algorithm for Censored Regression.",
+      "venue": {
+        "name": "IEEE Trans. Circuits Syst. II Express Briefs",
+        "volume": "68"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3511716.3511717",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Mohammed K. A. Kaabar"
+      ],
+      "title": "Research on Strategy Optimization of 5G NSA Based on Mobile Learning.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3511716.3511733",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhifeng Hu",
+        "Feng Zhao",
+        "Xiaona Zhao"
+      ],
+      "title": "Research on the Design of Smart Classroom Mode from the Perspective of Big Data.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/GCWkshps52748.2021.9682111",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Siyuan Liang",
+        "Xuefen Wang",
+        "Jianbo Du",
+        "Feng Zhao",
+        "Haotong Cao"
+      ],
+      "title": "LMS Channel Estimation Algorithm for IM/DD-OFDM/OQAM-PON Systems in 5G-Enabled Industrial Internet.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3460569.3460588",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "The Extendible Functional Concepts of Logic And Its Applications for the Classical Logic.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICSPCC52875.2021.9564493",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Xinyue Xiang",
+        "Feng Zhao",
+        "Boya Peng",
+        "Hao Qiu",
+        "Zhenhua Tan",
+        "Zhikang Shuai"
+      ],
+      "title": "A YOLO-v4-Based Risk Detection Method for Power High Voltage Operation Scene.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611438",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Jin Sima",
+        "Feng Zhao",
+        "Shao-Lun Huang"
+      ],
+      "title": "Exact Recovery in the Balanced Stochastic Block Model with Side Information.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611481",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jin Sima",
+        "Shao-Lun Huang"
+      ],
+      "title": "On the Optimal Error Rate of Stochastic Block Model with Symmetric Side Information.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2020.3044921",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Hou Bin",
+        "Feng Zhao",
+        "Guojie Xie",
+        "Lijuan Huang",
+        "Huanfang Wang",
+        "Ruidong Zhu",
+        "Li Jiang"
+      ],
+      "title": "Crowd-Sourcing a Way to Sustainable Urban Logistics: What Factors Influence Enterprises' Willingness to Implement Crowd Logistics?",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "8"
+      },
+      "arxiv_link": "https://doi.org/10.1155/2020/6612043",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Jie Zhang",
+        "Pingping Sun",
+        "Feng Zhao",
+        "Qianru Guo",
+        "Yue Zou"
+      ],
+      "title": "Network Pseudohealth Information Recognition Model: An Integrated Architecture of Latent Dirichlet Allocation and Data Block Update.",
+      "venue": {
+        "name": "Complex.",
+        "volume": "2020"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s00034-019-01176-0",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Haiquan Zhao",
+        "Wenyuan Wang"
+      ],
+      "title": "A Robust M-Shaped Error Weighted Algorithms for Censored Regression.",
+      "venue": {
+        "name": "Circuits Syst. Signal Process.",
+        "volume": "39"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.future.2019.11.026",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Jingyu Feng",
+        "Xinyu Zhao",
+        "Kexuan Chen",
+        "Feng Zhao",
+        "Guanghua Zhang"
+      ],
+      "title": "Towards random-honest miners selection and multi-blocks creation: Proof-of-negotiation consensus mechanism in blockchain networks.",
+      "venue": {
+        "name": "Future Gener. Comput. Syst.",
+        "volume": "105"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.future.2020.05.002",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jing Li",
+        "Lu Zhang",
+        "Zhe Li",
+        "Sang-Gyun Na"
+      ],
+      "title": "Multi-view face recognition using deep neural networks.",
+      "venue": {
+        "name": "Future Gener. Comput. Syst.",
+        "volume": "111"
+      },
+      "arxiv_link": "https://doi.org/10.1504/IJCAT.2020.106571",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Jinxiang Chen",
+        "Feng Zhao",
+        "Yanguang Sun",
+        "Yilan Yin"
+      ],
+      "title": "Improved XGBoost model based on genetic algorithm.",
+      "venue": {
+        "name": "Int. J. Comput. Appl. Technol.",
+        "volume": "62"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.jvcir.2019.102701",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Shiwang Huang",
+        "Renyan Long",
+        "Tiantian Zhang",
+        "Sang-Gyun Na"
+      ],
+      "title": "Perceptual visual quality assessment using deeply-learned gaze shifting kernel.",
+      "venue": {
+        "name": "J. Vis. Commun. Image Represent.",
+        "volume": "70"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s00521-020-04914-7",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Hao Zhang",
+        "Jia Peng",
+        "Xiaohong Zhuang",
+        "Sang-Gyun Na"
+      ],
+      "title": "A semi-self-taught network intrusion detection system.",
+      "venue": {
+        "name": "Neural Comput. Appl.",
+        "volume": "32"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs12193120",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Luojia Hu",
+        "Nan Xu",
+        "Jian Liang",
+        "Zhichao Li",
+        "Luzhen Chen",
+        "Feng Zhao"
+      ],
+      "title": "Advancing the Mapping of Mangrove Forests at National-Scale Using Sentinel-1 and Sentinel-2 Time-Series Data with Google Earth Engine: A Case Study in China.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "12"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TIP.2019.2947790",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Jian Fu",
+        "Jianbing Dong",
+        "Feng Zhao"
+      ],
+      "title": "A Deep Learning Reconstruction Framework for Differential Phase-Contrast Computed Tomography With Incomplete Data.",
+      "venue": {
+        "name": "IEEE Trans. Image Process.",
+        "volume": "29"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3419635.3419641",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Guifen Wu",
+        "Xueying Zhou",
+        "Mingming Zhu",
+        "Xiaoyan Bu"
+      ],
+      "title": "Application of Computer Multimedia Technology in Training and Teaching of Nursing Staff in Operating Room.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3424978.3425147",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Aijian Wu",
+        "Feng Zhao",
+        "Xinxing Ding"
+      ],
+      "title": "Research and Application of Progressive Loading Technology for Web Publishing of Complex Mechanical Product.",
+      "venue": {},
+      "arxiv_link": "https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.html",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Haozhe Qi",
+        "Chen Feng",
+        "Zhiguo Cao",
+        "Feng Zhao",
+        "Yang Xiao"
+      ],
+      "title": "P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3453187.3453326",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "Crowd Counting Method Based on Scale Adaptive Network.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3453187.3453340",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Zhifeng Hu",
+        "Feng Zhao",
+        "Xiaona Zhao"
+      ],
+      "title": "Research on Smart Education Service Platform Based on Big Data.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS39084.2020.9324454",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Yujie Wang",
+        "Feng Zhao",
+        "Alexei I. Lyapustin"
+      ],
+      "title": "The AOD Sensitivity Comparison between MODIS Multi-Angle Implementation of Atmospheric Correction (MAIAC) and Standard MODIS Surface Reflectance.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/RCAR49640.2020.9303268",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Yunsheng Li",
+        "Jie Cao",
+        "Xuewen Chen",
+        "Feng Zhao",
+        "Jingling Li"
+      ],
+      "title": "Auto-recognition Pedestrians Research Based on HOG Feature and SVM Classifier for Vehicle Images.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/SERVICES48979.2020.00058",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Xingzhi Niu",
+        "Shao-Lun Huang",
+        "Lin Zhang"
+      ],
+      "title": "Reproducing Scientific Experiment with Cloud DevOps.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3421515.3421529",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Haomin Ni",
+        "Guoheng Huang",
+        "Lianglun Cheng",
+        "Donghao Zhou",
+        "Tao Wang",
+        "Feng Zhao"
+      ],
+      "title": "Fast Iris Segmentation under Partly Occlusion Based on MTCNN and Weighted FCN.",
+      "venue": {},
+      "arxiv_link": "https://arxiv.org/abs/2005.13888",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Haozhe Qi",
+        "Chen Feng",
+        "Zhiguo Cao",
+        "Feng Zhao",
+        "Yang Xiao"
+      ],
+      "title": "P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2005.13888"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2019.2912804",
+      "year": "2020"
+    },
+    {
+      "authors": [
+        "Lei Wang",
+        "Minyu Yuan",
+        "Fan Zhang",
+        "Xuli Wang",
+        "Lei Dai",
+        "Feng Zhao"
+      ],
+      "title": "Risk Assessment of Distribution Networks Integrating Large-Scale Distributed Photovoltaics.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2019.2927427",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Zhushun Ding",
+        "Feng Zhao",
+        "Yuedong Lang",
+        "Zhe Jiang",
+        "Jiajing Zhu"
+      ],
+      "title": "Anti-Disturbance Neural-Sliding Mode Control for Inertially Stabilized Platform With Actuator Saturation.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2019.2931049",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Dezhao Lin",
+        "Fan Yang",
+        "Di Gong",
+        "Feng Zhao",
+        "Xiangyu Luo",
+        "Ruihong Li",
+        "Zhihong Lin"
+      ],
+      "title": "Experimental Investigation of Two Types Interconnected Hydro-Pneumatic Struts.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2019.2938771",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Jingyu Feng",
+        "Tao Li",
+        "Yujia Zhai",
+        "Shaoqing Lv",
+        "Feng Zhao"
+      ],
+      "title": "Ensuring Honest Data Collection Against Collusive CSDF Attack With Binary-Minmaxs Clustering Analysis in Mobile Crowd Sensing.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2019.2945834",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Decheng Wang",
+        "Xiangning Chen",
+        "Hui Yi",
+        "Feng Zhao"
+      ],
+      "title": "Improvement of Non-Maximum Suppression in RGB-D Object Detection.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1093/bioinformatics/bty684",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Sheng Wang",
+        "Shiyang Fei",
+        "Zongan Wang",
+        "Yu Li",
+        "Jinbo Xu",
+        "Feng Zhao",
+        "Xin Gao"
+      ],
+      "title": "PredMP: a web server for de novo prediction and visualization of membrane proteins.",
+      "venue": {
+        "name": "Bioinform.",
+        "volume": "35"
+      },
+      "arxiv_link": "https://doi.org/10.1504/IJMIC.2019.107482",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "JinXiang Chen",
+        "Feng Zhao",
+        "YanGuang Sun",
+        "Lin Zhang",
+        "Yilan Yin"
+      ],
+      "title": "Prediction model based on XGBoost for mechanical properties of steel materials.",
+      "venue": {
+        "name": "Int. J. Model. Identif. Control.",
+        "volume": "33"
+      },
+      "arxiv_link": "http://www.jsjkx.com/CN/Y2019/V46/I6A/182",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Xing Huo",
+        "Zhiwei Fei",
+        "Feng Zhao",
+        "Kun Shao"
+      ],
+      "title": "深度学习在驾驶员安全带检测中的应用 (Application of Deep Learning in Driver's Safety Belt Detection).",
+      "venue": {
+        "name": "计算机科学",
+        "volume": "46"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11517-018-1891-3",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Chunyang Pan",
+        "Fuqian Chen",
+        "Jun Zhou",
+        "Xueen Li",
+        "Feng Zhao",
+        "Xutao Zhang"
+      ],
+      "title": "Multiregional viscoelastic characterization of the corona radiata in the sagittal plane of the porcine brain.",
+      "venue": {
+        "name": "Medical Biol. Eng. Comput.",
+        "volume": "57"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11042-017-4559-3",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Weijian Si",
+        "Zheng Dou",
+        "Qidi Wu"
+      ],
+      "title": "Image compressive recovery based on dictionary learning from under-sampled measurement.",
+      "venue": {
+        "name": "Multim. Tools Appl.",
+        "volume": "78"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11042-017-5493-0",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Weijian Si",
+        "Zheng Dou"
+      ],
+      "title": "Image super-resolution via two stage coupled dictionary learning.",
+      "venue": {
+        "name": "Multim. Tools Appl.",
+        "volume": "78"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TASE.2018.2861382",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Zhiguo Cao",
+        "Yang Xiao",
+        "Jing Mao",
+        "Junsong Yuan"
+      ],
+      "title": "Real-Time Detection of Fall From Bed Using a Single Depth Camera.",
+      "venue": {
+        "name": "IEEE Trans Autom. Sci. Eng.",
+        "volume": "16"
+      },
+      "arxiv_link": "https://doi.org/10.1155/2019/3174304",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Shaoping Li",
+        "Jingyu Feng"
+      ],
+      "title": "Securing Cooperative Spectrum Sensing against DC-SSDF Attack Using Trust Fluctuation Clustering Analysis in Cognitive Radio Networks.",
+      "venue": {
+        "name": "Wirel. Commun. Mob. Comput.",
+        "volume": "2019"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3338507.3358613",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Jingyu Feng",
+        "Xinyu Zhao",
+        "Guangyue Lu",
+        "Feng Zhao"
+      ],
+      "title": "PoTN: A Novel Blockchain Consensus Protocol with Proof-of-Trust Negotiation in Distributed IoT Networks.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/DSC.2019.00104",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Libo Xu",
+        "Lin Qiao",
+        "Feng Zhao",
+        "Bo Yang",
+        "Qiong Wang",
+        "Ping Ding",
+        "Lei Li"
+      ],
+      "title": "Improvement and Application of Apriori Algorithm Based on Equalization.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-030-36802-9_52",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Fei Ma",
+        "Yang Li",
+        "Shao-Lun Huang",
+        "Lin Zhang"
+      ],
+      "title": "Info-Detection: An Information-Theoretic Approach to Detect Outlier.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IECON.2019.8927238",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Ning Zhang",
+        "Bo Zhou",
+        "Kaimiao Wang",
+        "Zhou Zhou",
+        "Siyuan Jiang",
+        "Feng Zhao",
+        "Zhigang Ren"
+      ],
+      "title": "Research on Control Strategy of Excitation-loss for DSEM based on Full-bridge Converter.",
+      "venue": {},
+      "arxiv_link": "http://arxiv.org/abs/1910.13397",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Xingzhi Niu",
+        "Shao-Lun Huang",
+        "Lin Zhang"
+      ],
+      "title": "Reproducing Scientific Experiment with Cloud DevOps.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/1910.13397"
+      },
+      "arxiv_link": "https://doi.org/10.1155/2018/5185460",
+      "year": "2019"
+    },
+    {
+      "authors": [
+        "Gao Lv",
+        "Jie Yang",
+        "Ning Li",
+        "Dexiu Hu",
+        "Yan Zhang",
+        "Feng Zhao"
+      ],
+      "title": "Dielectric Characteristics of Unsaturated Loess and the Safety Detection of the Road Subgrade Based on GPR.",
+      "venue": {
+        "name": "J. Sensors",
+        "volume": "2018"
+      },
+      "arxiv_link": "http://www.jsjkx.com/CN/Y2018/V45/I11A/564",
+      "year": "2018"
+    },
+    {
+      "authors": [
+        "Weijing Du",
+        "Feng Zhao",
+        "Fengyang Gao"
+      ],
+      "title": "基于EEMD-RobustICA和Prony算法的谐波和间谐波检测方法 (Harmonic and Inter-harmonic Detection Method Based on EEMD-RobustICA and Prony Algorithm).",
+      "venue": {
+        "name": "计算机科学",
+        "volume": "45"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11042-017-4958-5",
+      "year": "2018"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Weijian Si",
+        "Zheng Dou"
+      ],
+      "title": "Sparse media image restoration based on collaborative low rank representation.",
+      "venue": {
+        "name": "Multim. Tools Appl.",
+        "volume": "77"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.procs.2019.01.215",
+      "year": "2018"
+    },
+    {
+      "authors": [
+        "Da Yuan",
+        "Zhiyong An",
+        "Feng Zhao"
+      ],
+      "title": "Gray-statistics-based Twin Feature Extraction for Hyperbola Classification in Ground Penetrating Radar images.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1016/j.chb.2016.12.057",
+      "year": "2018"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Zhi-Hua Zhang",
+        "Linda Bi",
+        "Xiao-Shuang Wu",
+        "Wen-Jing Wang",
+        "Yi-Feng Li",
+        "Ye-Huan Sun"
+      ],
+      "title": "The association between life events and internet addiction among Chinese vocational school students: The mediating role of depression.",
+      "venue": {
+        "name": "Comput. Hum. Behav.",
+        "volume": "70"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs9010092",
+      "year": "2017"
+    },
+    {
+      "authors": [
+        "Bin Wu",
+        "Bailang Yu",
+        "Qiusheng Wu",
+        "Shenjun Yao",
+        "Feng Zhao",
+        "Weiqing Mao",
+        "Jianping Wu"
+      ],
+      "title": "A Graph-Based Approach for 3D Building Model Reconstruction from Airborne LiDAR Point Clouds.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2017.8127151",
+      "year": "2017"
+    },
+    {
+      "authors": [
+        "Xin Tao",
+        "Chengquan Huang",
+        "Feng Zhao"
+      ],
+      "title": "Estimation of forest disturbance intensity from Landsat data in North Carolina and South Carolina.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/RCAR.2017.8311909",
+      "year": "2017"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jingling Li",
+        "Xiangkui Jiang",
+        "Guibao Wang"
+      ],
+      "title": "Quaternion based arrival angles and polarization estimation with a cylindrically shaped conformal array.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ROBIO.2017.8324647",
+      "year": "2017"
+    },
+    {
+      "authors": [
+        "Zhihan Yang",
+        "Haibo Huang",
+        "Feng Zhao",
+        "Wenwen Zhang",
+        "Yongchao Pei",
+        "Liguo Chen",
+        "Jizhu Liu"
+      ],
+      "title": "Research on high precision magnetic suspension positioning platform.",
+      "venue": {},
+      "arxiv_link": "",
+      "year": "2017"
+    },
+    {
+      "authors": [
+        "Han Hu",
+        "Feng Zhao",
+        "Tongyuan Zhao"
+      ],
+      "title": "On S-(p, q)-Dyck paths.",
+      "venue": {
+        "name": "Ars Comb.",
+        "volume": "125"
+      },
+      "arxiv_link": "https://doi.org/10.1080/00207721.2015.1116638",
+      "year": "2016"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qingling Zhang",
+        "Guoliang Wang"
+      ],
+      "title": "H∞ filtering for piecewise homogeneous Markovian jump nonlinear systems.",
+      "venue": {
+        "name": "Int. J. Syst. Sci.",
+        "volume": "47"
+      },
+      "arxiv_link": "https://doi.org/10.3837/tiis.2016.05.007",
+      "year": "2016"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jingyu Feng"
+      ],
+      "title": "Supporting Trusted Soft Decision Scheme Using Volatility Decay in Cooperative Spectrum Sensing.",
+      "venue": {
+        "name": "KSII Trans. Internet Inf. Syst.",
+        "volume": "10"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TNNLS.2015.2390621",
+      "year": "2016"
+    },
+    {
+      "authors": [
+        "Hongbin Sun",
+        "Feng Zhao",
+        "Hao Wang",
+        "Kang Wang",
+        "Weiyong Jiang",
+        "Qinglai Guo",
+        "Boming Zhang",
+        "Louis Wehenkel"
+      ],
+      "title": "Automatic Learning of Fine Operating Rules for Online Power System Security Control.",
+      "venue": {
+        "name": "IEEE Trans. Neural Networks Learn. Syst.",
+        "volume": "27"
+      },
+      "arxiv_link": "https://doi.org/10.1109/RCAR.2016.7784044",
+      "year": "2016"
+    },
+    {
+      "authors": [
+        "Guibao Wang",
+        "Feng Zhao",
+        "Xiang Liu"
+      ],
+      "title": "Estimating the DOA and polarization parameters with sparse collocated loop and dipole cross array.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1155/2015/341369",
+      "year": "2016"
+    },
+    {
+      "authors": [
+        "Wei Du",
+        "Feng Zhao"
+      ],
+      "title": "Sensing Performance Study of SiC, a Wide Bandgap Semiconductor Material Platform for Surface Plasmon Resonance Sensor.",
+      "venue": {
+        "name": "J. Sensors",
+        "volume": "2015"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs71215877",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Yan Huang",
+        "Zuoqi Chen",
+        "Bin Wu",
+        "Liang Chen",
+        "Weiqing Mao",
+        "Feng Zhao",
+        "Jianping Wu",
+        "Junhan Wu",
+        "Bailang Yu"
+      ],
+      "title": "Estimating Roof Solar Energy Potential in the Downtown Area Using a GPU-Accelerated Solar Radiation Model and Airborne LiDAR Data.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "7"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TSG.2015.2430851",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Yaowen Yu",
+        "Peter B. Luh",
+        "Eugene Litvinov",
+        "Tongxin Zheng",
+        "Jinye Zhao",
+        "Feng Zhao"
+      ],
+      "title": "Grid Integration of Distributed Wind Generation: Hybrid Markovian and Interval Unit Commitment.",
+      "venue": {
+        "name": "IEEE Trans. Smart Grid",
+        "volume": "6"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ASICON.2015.7516918",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Fa Foster Dai",
+        "Feng Zhao",
+        "Rong Jiang"
+      ],
+      "title": "Low noise coupling techniques for multi-phase oscillators.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CDC.2015.7402428",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Yechen Qin",
+        "Mingming Dong",
+        "Feng Zhao",
+        "Reza Langari",
+        "Liang Gu"
+      ],
+      "title": "Road profile classification for vehicle semi-active suspension system based on Adaptive Neuro-Fuzzy Inference System.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-662-46248-5_56",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Leilei Kong",
+        "Jie Li",
+        "Feng Zhao",
+        "Haoliang Qi",
+        "Zhongyuan Han",
+        "Yong Han",
+        "Zhimao Lu"
+      ],
+      "title": "HawkEyes Plagiarism Detection System.",
+      "venue": {},
+      "arxiv_link": "http://auai.org/uai2015/proceedings/papers/105.pdf",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Jianzhu Ma",
+        "Feng Zhao",
+        "Jinbo Xu"
+      ],
+      "title": "Structure Learning Constrained by Node-Specific Degree Distribution.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1016/j.amc.2013.11.071",
+      "year": "2015"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qingling Zhang",
+        "Xing-Gang Yan",
+        "Min Cai",
+        "Junchao Ren"
+      ],
+      "title": "Stochastic input-to-state stability and H∞ filtering for a class of stochastic nonlinear systems.",
+      "venue": {
+        "name": "Appl. Math. Comput.",
+        "volume": "227"
+      },
+      "arxiv_link": "https://doi.org/10.1109/JSSC.2014.2315650",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Jianjun Yu",
+        "Feng Zhao",
+        "Joseph Cali",
+        "Fa Foster Dai",
+        "Desheng Ma",
+        "Xueyang Geng",
+        "Yuehai Jin",
+        "Yuan Yao",
+        "Xin Jin",
+        "J. David Irwin",
+        "Richard C. Jaeger"
+      ],
+      "title": "An X-Band Radar Transceiver MMIC with Bandwidth Reduction in 0.13 µm SiGe Technology.",
+      "venue": {
+        "name": "IEEE J. Solid State Circuits",
+        "volume": "49"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs6031762",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Christopher S. R. Neigh",
+        "Jeffrey G. Masek",
+        "Paul Bourget",
+        "Bruce D. Cook",
+        "Chengquan Huang",
+        "Khaldoun Rishmawi",
+        "Feng Zhao"
+      ],
+      "title": "Deciphering the Precision of Stereo IKONOS Canopy Height Models for US Forests with G-LiHT Airborne LiDAR.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "6"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TMI.2014.2329751",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jeffrey A. Fessler",
+        "Steven M. Wright",
+        "Douglas C. Noll"
+      ],
+      "title": "Regularized Estimation of Magnitude and Phase of Multi-Coil $B_1$ Field Via Bloch-Siegert $B_1$ Mapping and Coil Combination Optimizations.",
+      "venue": {
+        "name": "IEEE Trans. Medical Imaging",
+        "volume": "33"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TSG.2013.2268462",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Peter B. Luh",
+        "Yaowen Yu",
+        "Bingjie Zhang",
+        "Eugene Litvinov",
+        "Tongxin Zheng",
+        "Feng Zhao",
+        "Jinye Zhao",
+        "Congcong Wang"
+      ],
+      "title": "Grid Integration of Intermittent Wind Generation: A Markovian Approach.",
+      "venue": {
+        "name": "IEEE Trans. Smart Grid",
+        "volume": "5"
+      },
+      "arxiv_link": "https://doi.org/10.1109/CICC.2014.6946098",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Fa Foster Dai"
+      ],
+      "title": "A capacitive-coupling technique with phase noise and phase error reduction for multi-phase clock generation.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1609/aimag.v34i2.2470",
+      "year": "2014"
+    },
+    {
+      "authors": [
+        "Qiang Yang",
+        "Feng Zhao"
+      ],
+      "title": "Artificial Intelligence on Mobile Devices: An Introduction to the Special Issue.",
+      "venue": {
+        "name": "AI Mag.",
+        "volume": "34"
+      },
+      "arxiv_link": "https://doi.org/10.1093/bioinformatics/btt210",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Jianzhu Ma",
+        "Sheng Wang",
+        "Feng Zhao",
+        "Jinbo Xu"
+      ],
+      "title": "Protein threading using context-specific alignment potential.",
+      "venue": {
+        "name": "Bioinform.",
+        "volume": "29"
+      },
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2013.6723552",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Xiaoyuan Yang",
+        "Crystal Schaaf",
+        "Alan H. Strahler",
+        "Zhan Li",
+        "Zhuosen Wang",
+        "Tian Yao",
+        "Feng Zhao",
+        "Edward J. Saenz",
+        "Ian Paynter",
+        "Ewan S. Douglas",
+        "Supriya Chakrabarti",
+        "Timothy A. Cook",
+        "Jason Martel",
+        "Glenn Howe",
+        "Curtis E. Woodcock",
+        "David L. B. Jupp",
+        "Darius Culvenor",
+        "Glenn J. Newnham",
+        "Jenny L. Lovell"
+      ],
+      "title": "Studying canopy structure through 3-D reconstruction of point clouds from full-waveform terrestrial lidar.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2013.6723554",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Zhan Li",
+        "Ewan S. Douglas",
+        "Alan H. Strahler",
+        "Crystal Schaaf",
+        "Xiaoyuan Yang",
+        "Zhuosen Wang",
+        "Tian Yao",
+        "Feng Zhao",
+        "Edward J. Saenz",
+        "Ian Paynter",
+        "Curtis E. Woodcock",
+        "Supriya Chakrabarti",
+        "Timothy A. Cook",
+        "Jason Martel",
+        "Glenn Howe",
+        "David L. B. Jupp",
+        "Darius S. Culvenor",
+        "Glenn J. Newnham",
+        "Jenny L. Lovell"
+      ],
+      "title": "Separating leaves from trunks and branches with dual-wavelength terrestrial lidar scanning.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ISBI.2013.6556631",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jeffrey A. Fessler",
+        "Steven M. Wright",
+        "Joseph Vincent Rispoli",
+        "Douglas C. Noll"
+      ],
+      "title": "Optimized linear combinations of channels for complex multiple-coil B1 field estimation with Bloch-Siegert B1 mapping in MRI.",
+      "venue": {},
+      "arxiv_link": "http://arxiv.org/abs/1311.1422",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "Structural Learning for Template-free Protein Folding.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/1311.1422"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.micpro.2012.01.002",
+      "year": "2013"
+    },
+    {
+      "authors": [
+        "Zheng Ding",
+        "Feng Zhao",
+        "Wei Shu",
+        "Min-You Wu"
+      ],
+      "title": "Face detection system for SVGA source with hecto-scale frame rate on FPGA board.",
+      "venue": {
+        "name": "Microprocess. Microsystems",
+        "volume": "36"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TCSI.2012.2206496",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Fa Foster Dai"
+      ],
+      "title": "A 0.6-V Quadrature VCO With Enhanced Swing and Optimized Capacitive Coupling for Phase Noise Reduction.",
+      "venue": {
+        "name": "IEEE Trans. Circuits Syst. I Regul. Pap.",
+        "volume": "59-I"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TMI.2012.2196707",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Douglas C. Noll",
+        "Jon-Fredrik Nielsen",
+        "Jeffrey A. Fessler"
+      ],
+      "title": "Separate Magnitude and Phase Regularization via Compressed Sensing.",
+      "venue": {
+        "name": "IEEE Trans. Medical Imaging",
+        "volume": "31"
+      },
+      "arxiv_link": "https://doi.org/10.1109/APCCAS.2012.6418972",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Hong Gao",
+        "Lin Xing",
+        "Yasunori Kobori",
+        "Feng Zhao",
+        "Haruo Kobayashi",
+        "Shyunsuke Miwa",
+        "Atsushi Motozawa",
+        "Zachary Nosker",
+        "Kiichi Niitsu",
+        "Nobukazu Takai",
+        "Takahiro Odaguchi",
+        "Isao Nakanishi",
+        "Kenji Nemoto",
+        "Jun-Ichi Matsuda"
+      ],
+      "title": "DC-DC converter with continuous-time feed-forward Sigma-Delta modulator control.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/APCCAS.2012.6419065",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Yasunori Kobori",
+        "Qiulin Zhu",
+        "Murong Li",
+        "Feng Zhao",
+        "Zachary Nosker",
+        "Shu Wu",
+        "Shaiful N. Mohyar",
+        "Masanori Onozawa",
+        "Haruo Kobayashi",
+        "Nobukazu Takai",
+        "Kiichi Niitsu",
+        "Takahiro Odaguchi",
+        "Isao Nakanishi",
+        "Kenji Nemoto",
+        "Jun-Ichi Matsuda",
+        "Asahi Kasei"
+      ],
+      "title": "Single inductor dual output DC-DC converter design with exclusive control.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CCIS.2012.6664436",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Tongrang Fan",
+        "Feng Zhao",
+        "Feng Gao"
+      ],
+      "title": "Research on cloud resource economics management model based on Internet Innovation Union.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CICC.2012.6330617",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Jianjun Yu",
+        "Feng Zhao",
+        "Joseph Cali",
+        "Desheng Ma",
+        "Xueyang Geng",
+        "Fa Foster Dai",
+        "J. David Irwin",
+        "Andre Aklian"
+      ],
+      "title": "A single-chip x-band chirp radar MMIC with stretch processing.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/EMBC.2012.6345954",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Yujia Li",
+        "Feng Zhao",
+        "Yi-Xiang Wang",
+        "Anil T. Ahuja",
+        "Jing Yuan"
+      ],
+      "title": "Study of magnetization evolution by using composite spin-lock pulses for T1ρ imaging.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/HSI.2012.26",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Hideyuki Sawada",
+        "Feng Zhao",
+        "Keiji Uchida"
+      ],
+      "title": "Displaying Braille for Mobile Use with the Micro-vibration of SMA Wires.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICASSP.2012.6288043",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Zhe Wei",
+        "Yuan Dong",
+        "Feng Zhao",
+        "Hongliang Bai"
+      ],
+      "title": "Face detection based on multi-scale enhanced local texture feature sets.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICASSP.2012.6288154",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Yuan Dong",
+        "Zhe Wei",
+        "Haila Wang"
+      ],
+      "title": "Matching logos for slow motion replay detection in broadcast sports video.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ISIE.2012.6237343",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Shinji Okumoto",
+        "Feng Zhao",
+        "Hideyuki Sawada"
+      ],
+      "title": "Tactoglove presenting tactile sensations for intuitive gestural interaction.",
+      "venue": {},
+      "arxiv_link": "https://www-nlpir.nist.gov/projects/tvpubs/tv12.papers/ftrdbj.pdf",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Kun Tao",
+        "Yuan Dong",
+        "Yunlong Bian",
+        "Xiaofu Chang",
+        "Hongliang Bai",
+        "Wei Liu",
+        "Feng Zhao",
+        "Peng Li",
+        "Chengbin Zeng"
+      ],
+      "title": "The France Telecom Orange Labs (Beijing) Video Semantic Indexing Systems - TRECVID 2012 Notebook Paper.",
+      "venue": {},
+      "arxiv_link": "https://www.usenix.org/conference/webapps12/technical-sessions/presentation/lin",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Kaisen Lin",
+        "David Chu",
+        "James Mickens",
+        "Li Zhuang",
+        "Feng Zhao",
+        "Jian Qiu"
+      ],
+      "title": "Gibraltar: Exposing Hardware Devices to Web Pages Using AJAX.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1016/j.biosystems.2011.06.005",
+      "year": "2012"
+    },
+    {
+      "authors": [
+        "Meng Wang",
+        "Jie Zhang",
+        "Jian-hua Zhou",
+        "Hao-tai Chen",
+        "Li-na Ma",
+        "Yao-zhong Ding",
+        "Wen-qian Liu",
+        "Yuan-xing Gu",
+        "Feng Zhao",
+        "Yong-sheng Liu"
+      ],
+      "title": "Analysis of codon usage in type 1 and the new genotypes of duck hepatitis virus.",
+      "venue": {
+        "name": "Biosyst.",
+        "volume": "106"
+      },
+      "arxiv_link": "https://web.archive.org/web/*/https://doi.org/10.4304/jsw.6.8.1417-1428",
+      "year": "2011"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qianqiao Hu",
+        "Xiaolin Xu",
+        "Runxi Zeng",
+        "Yi Lin"
+      ],
+      "title": "Orientation Mining-Driven Approach to Analyze Web Public Sentiment.",
+      "venue": {
+        "name": "J. Softw.",
+        "volume": "6"
+      },
+      "arxiv_link": "https://doi.org/10.1109/CICC.2011.6055305",
+      "year": "2011"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Fa Foster Dai"
+      ],
+      "title": "A 0.6V quadrature VCO with optimized capacitive coupling for phase noise reduction.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/FCCM.2011.16",
+      "year": "2011"
+    },
+    {
+      "authors": [
+        "Zheng Ding",
+        "Feng Zhao",
+        "Tinghui Wang",
+        "Wei Shu",
+        "Min-You Wu"
+      ],
+      "title": "Hecto-Scale Frame Rate Face Detection System for SVGA Source on FPGA Board.",
+      "venue": {},
+      "arxiv_link": "https://www-nlpir.nist.gov/projects/tvpubs/tv11.papers/ftrdbj.pdf",
+      "year": "2011"
+    },
+    {
+      "authors": [
+        "Yuan Dong",
+        "Kun Tao",
+        "Xiaofu Chang",
+        "Shan Gao",
+        "Jiwei Zhang",
+        "Hongliang Bai",
+        "Wei Liu",
+        "Feng Zhao",
+        "Peng Li",
+        "Chengbin Zeng"
+      ],
+      "title": "The France Telecom Orange Labs (Beijing) Video Semantic Indexing Systems - TRECVID 2011 Notebook Paper.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1093/bioinformatics/btq193",
+      "year": "2011"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jian Peng",
+        "Jinbo Xu"
+      ],
+      "title": "Fragment-free approach to protein folding using conditional neural fields.",
+      "venue": {
+        "name": "Bioinform.",
+        "volume": "26"
+      },
+      "arxiv_link": "https://doi.org/10.1155/2010/410628",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qingming Huang",
+        "Hao Wang",
+        "Wen Gao"
+      ],
+      "title": "MOCC: A Fast and Robust Correlation-Based Method for Interest Point Matching under Large Scale Changes.",
+      "venue": {
+        "name": "EURASIP J. Adv. Signal Process.",
+        "volume": "2010"
+      },
+      "arxiv_link": "https://doi.org/10.1089/cmb.2009.0235",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jian Peng",
+        "Joe DeBartolo",
+        "Karl F. Freed",
+        "Tobin R. Sosnick",
+        "Jinbo Xu"
+      ],
+      "title": "A Probabilistic and Continuous Model of Protein Conformational Space for Template-Free Modeling.",
+      "venue": {
+        "name": "J. Comput. Biol.",
+        "volume": "17"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s11390-010-9335-z",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Jin Huang",
+        "Feng Zhao",
+        "Jian Chen",
+        "Jian Pei",
+        "Jian Yin"
+      ],
+      "title": "Towards Progressive and Load Balancing Distributed Computation: A Case Study on Skyline Analysis.",
+      "venue": {
+        "name": "J. Comput. Sci. Technol.",
+        "volume": "25"
+      },
+      "arxiv_link": "https://doi.org/10.1109/CIT.2010.411",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Zhiqiang Que",
+        "Yongxin Zhu",
+        "Xuan Wang",
+        "Jibo Yu",
+        "Tian Huang",
+        "Zhe Zheng",
+        "Li Yang",
+        "Feng Zhao",
+        "Yuzhuo Fu"
+      ],
+      "title": "Implementing Medical CT Algorithms on Stand-alone FPGA Based Systems Using an Efficient Workflow with SysGen and Simulink.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/COGINF.2010.5599695",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Liping Yu",
+        "Feng Zhao",
+        "Zhiyong An"
+      ],
+      "title": "Locally Assembled Binary feature with feed-forward cascade for pedestrian detection in intelligent vehicles.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/BIBM.2010.5706547",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Zhiyong Wang",
+        "Feng Zhao",
+        "Jian Peng",
+        "Jinbo Xu"
+      ],
+      "title": "Protein 8-class secondary structure prediction using Conditional Neural Fields.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/FSKD.2010.5569263",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Hongbin Sun",
+        "Hao Wang",
+        "Boming Zhang",
+        "Feng Zhao"
+      ],
+      "title": "PGFB: A hybrid feature selection method based on mutual information.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2010.5652658",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Yuan Sun",
+        "Xingfa Gu",
+        "Tao Yu",
+        "Feng Zhao",
+        "Xingfeng Chen",
+        "Hailiang Gao",
+        "Juan Li"
+      ],
+      "title": "Research on 3D canopy's reflectance model of semi-arid grassland.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-642-17277-9_41",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Tinghui Wang",
+        "Feng Zhao",
+        "Jiang Wan",
+        "Yongxin Zhu"
+      ],
+      "title": "A Novel Hardware Architecture for Rapid Object Detection Based on Adaboost Algorithm.",
+      "venue": {},
+      "arxiv_link": "",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Hui Xu",
+        "Feng Zhao",
+        "Ran Ju"
+      ],
+      "title": "Hardware Architecture for Object Detection based on AdaBoost Algorithm.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1016/j.dsp.2008.06.006",
+      "year": "2010"
+    },
+    {
+      "authors": [
+        "Junli Liang",
+        "Xianju Zeng",
+        "Bangjie Ji",
+        "Junying Zhang",
+        "Feng Zhao"
+      ],
+      "title": "A computationally efficient algorithm for joint range-DOA-frequency estimation of near-field sources.",
+      "venue": {
+        "name": "Digit. Signal Process.",
+        "volume": "19"
+      },
+      "arxiv_link": "https://doi.org/10.1109/DASC.2009.110",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Jinlong Hou",
+        "Yongxin Zhu",
+        "Le Zhang",
+        "Yuzhuo Fu",
+        "Feng Zhao",
+        "Li Yang",
+        "Guoguang Rong"
+      ],
+      "title": "Design and Implementation of a High Resolution Localization System for In-Vivo Capsule Endoscopy.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICIP.2009.5413557",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Shiming Ge",
+        "Kongqiao Wang",
+        "Hao Wang",
+        "Feng Zhao"
+      ],
+      "title": "A unified gradient domain method for seamless image processing.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICIP.2009.5414409",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Hao Wang",
+        "Xiujuan Chai",
+        "Shiming Ge"
+      ],
+      "title": "A fast and effective outlier detection method for matching uncalibrated images.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2009.5417771",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Chudong Huang",
+        "Qianhu Chen",
+        "Si'ai Ying",
+        "Feng Zhao",
+        "Yun Shao",
+        "Wenbo Yu",
+        "Jinsong Chen",
+        "Fuying Liu",
+        "Xin Xu",
+        "Jing Li"
+      ],
+      "title": "An Analysis on the Coupling Relationship between Urban Vegetation and Land Surface Temperature in Hangzhou based on ASTER Imagery.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-642-02008-7_5",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jian Peng",
+        "Joe DeBartolo",
+        "Karl F. Freed",
+        "Tobin R. Sosnick",
+        "Jinbo Xu"
+      ],
+      "title": "A Probabilistic Graphical Model for Ab Initio Folding.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ROMAN.2009.5326301",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Keishi Fukuyama",
+        "Hideyuki Sawada"
+      ],
+      "title": "Compact Braille display using SMA wire array.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.30",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Yipeng Wei",
+        "Yongxin Zhu",
+        "Feng Zhao",
+        "Yuehua Shi",
+        "Tingting Mo",
+        "Xiaoyi Ding",
+        "Jie Zhong"
+      ],
+      "title": "Implementing Contourlet Transform for Medical Image Fusion on a Heterogenous Platform.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.77",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Li Yang",
+        "Yongxin Zhu",
+        "Pin Liao"
+      ],
+      "title": "Ehancing the Implementation of Adaboost Algorithm on a DSP-Based Platform.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1016/j.dsp.2007.05.007",
+      "year": "2009"
+    },
+    {
+      "authors": [
+        "Junli Liang",
+        "Bangjie Ji",
+        "Junying Zhang",
+        "Shijun Wang",
+        "Feng Zhao"
+      ],
+      "title": "Recursive least squares-like algorithms for the adaptive second-order lattice notch filter.",
+      "venue": {
+        "name": "Digit. Signal Process.",
+        "volume": "18"
+      },
+      "arxiv_link": "https://doi.org/10.1109/WAINA.2008.92",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Yuehua Shi",
+        "Feng Zhao",
+        "Zhong Zhang"
+      ],
+      "title": "Hardware Implementation of ADABOOST ALGORITHM and Verification.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/APCCAS.2008.4746081",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Xiaoping Gao",
+        "Huajiang Zhang",
+        "Kangmin Hu",
+        "Zhiliang Hong"
+      ],
+      "title": "A CMOS 434/868 MHz FSK/OOK transmitter with integrated fractional-N PLL.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CSSE.2008.57",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "The Algorithm Analyses and Design about the Subjective Test Online Basing on the DOM Tree.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/FSKD.2008.277",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Huaiqing Zhang",
+        "Zengyuan Li",
+        "Yong Pang"
+      ],
+      "title": "The Extraction of Individual Tree-Crown in Aerial Digital Camera Imagery.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2008.4780063",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Sung Bae Jeon",
+        "Curtis E. Woodcock",
+        "Feng Zhao",
+        "Xiaoyuan Yang",
+        "Richard A. Houghton",
+        "Joseph L. Hackler"
+      ],
+      "title": "The Effects of Land Use Change on the Terrestrial Carbon Budgets of New England.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2008.4780116",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Yong Xue",
+        "Jungang Miao",
+        "Guolong Wan",
+        "Anyong Hu",
+        "Feng Zhao",
+        "Huaming Wu"
+      ],
+      "title": "Prototype Development of an 8mm Band 2-Dimensional Aperture Synthesis Radiometer.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ISPA.2008.20",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Xiaocui Sun",
+        "Zhijun Wang",
+        "Hao Che",
+        "Feng Zhao"
+      ],
+      "title": "An End User Enabled MAC-in-MAC Encapsulation Scheme for Metro-Ethernet.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1155/2007/17820",
+      "year": "2008"
+    },
+    {
+      "authors": [
+        "Junli Liang",
+        "Shuyuan Yang",
+        "Junying Zhang",
+        "Li Gao",
+        "Feng Zhao"
+      ],
+      "title": "4D Near-Field Source Localization Using Cumulant.",
+      "venue": {
+        "name": "EURASIP J. Adv. Signal Process.",
+        "volume": "2007"
+      },
+      "arxiv_link": "https://doi.org/10.1109/LSP.2007.900031",
+      "year": "2007"
+    },
+    {
+      "authors": [
+        "Weiqin Li",
+        "Haibo Zhang",
+        "Feng Zhao"
+      ],
+      "title": "Independent Component Analysis Using Multilayer Networks.",
+      "venue": {
+        "name": "IEEE Signal Process. Lett.",
+        "volume": "14"
+      },
+      "arxiv_link": "https://doi.org/10.1109/CIS.2007.178",
+      "year": "2007"
+    },
+    {
+      "authors": [
+        "Hongsheng Su",
+        "Feng Zhao"
+      ],
+      "title": "A Novel Learning Method for ANFIS Using EM Algorithm and Emotional Learning.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/CIS.2007.216",
+      "year": "2007"
+    },
+    {
+      "authors": [
+        "Ke Lu",
+        "Feng Zhao",
+        "Ning He"
+      ],
+      "title": "An Effective Approach to Content-Based 3D Model Retrieval and Classification.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-540-72395-0_49",
+      "year": "2007"
+    },
+    {
+      "authors": [
+        "Sanping Li",
+        "Yusen Zhang",
+        "Chun-hua Li",
+        "Feng Zhao"
+      ],
+      "title": "Universal Steganalysis Using Multiwavelet Higher-Order Statistics and Support Vector Machines.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/COGINF.2006.365551",
+      "year": "2007"
+    },
+    {
+      "authors": [
+        "Hongsheng Su",
+        "Feng Zhao"
+      ],
+      "title": "An Improved PSO-Based Fuzzy Ensemble Classifier for Transformer Fault Diagnosis.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/11612032_93",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qingming Huang",
+        "Wen Gao"
+      ],
+      "title": "Image Matching by Multiscale Oriented Corner Correlation.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICASSP.2006.1660446",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qingming Huang",
+        "Wen Gao"
+      ],
+      "title": "Image Matching by Normalized Cross-Correlation.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-0-387-36594-7_41",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Hongsheng Su",
+        "Jianwu Dang",
+        "Feng Zhao"
+      ],
+      "title": "A Web-Based CSCW System for Remote Substation Fault Diagnosis.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2006.587",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Shanshan Yu",
+        "Tao Yu",
+        "Xingfa Gu",
+        "Li Li",
+        "Feng Zhao"
+      ],
+      "title": "Investigating the Gap Frequency of a Maize Canopy using Night TIR Data.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2006.588",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Li Li",
+        "Yanli Qiao",
+        "Tao Yu",
+        "Xingfa Gu",
+        "Shanshan Yu",
+        "Feng Zhao"
+      ],
+      "title": "Modeling Field of View Effect on the Field Reflectance Measurements for Row Crops.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2006.639",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Xingfa Gu",
+        "Qiang Liu",
+        "Tao Yu",
+        "Liangfu Chen",
+        "Hailiang Gao",
+        "Shanshan Yu",
+        "Li Li"
+      ],
+      "title": "Synthetic Modeling of 3D Canopys Radiation Transfer in the VNIR and TIR Domains.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/11943952_52",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Feng Xi",
+        "Zhong Liu"
+      ],
+      "title": "An Energy-Balanced Strategy for Clustering Protocols in Wireless Sensor Networks.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/1089551.1089728",
+      "year": "2006"
+    },
+    {
+      "authors": [
+        "Yanping Wang",
+        "Feng Zhao"
+      ],
+      "title": "Electronic commerce project character and risk factor analyses.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/11427391_139",
+      "year": "2005"
+    },
+    {
+      "authors": [
+        "Zhifeng Hao",
+        "Bo Liu",
+        "Xiaowei Yang",
+        "Yanchun Liang",
+        "Feng Zhao"
+      ],
+      "title": "Twi-Map Support Vector Machine for Multi-classification Problems.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-540-30208-7_128",
+      "year": "2005"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Qing-Hua Li",
+        "Yan-Bin Zhao"
+      ],
+      "title": "Real Time Approaches for Time-Series Mining-Based IDS.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICIG.2004.131",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Wen Gao"
+      ],
+      "title": "Singular value decomposition based image matching.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2004.1368537",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Keping Du",
+        "Feng Zhao",
+        "Mingxia He",
+        "ZhiShen Liu",
+        "Zhong Ping Lee",
+        "Kendall L. Carder"
+      ],
+      "title": "Angular variation of remote-sensing reflectance and the influence of particle phase functions.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2004.1370461",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Keping Du",
+        "Feng Zhao",
+        "ZhongPing Lee",
+        "Mingxia He"
+      ],
+      "title": "Effects of Raman scattering and CDOM fluorescence to the multi-band Quasi-Analytical Algorithm (QAA).",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2004.1370102",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jindi Wang",
+        "Feng Gao",
+        "Guangjian Yan",
+        "Zhuosen Wang",
+        "Keping Du"
+      ],
+      "title": "Kernel -based vegetation index and its validation with different-scale BRDF data sets.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-540-28647-9_92",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Zhifeng Hao",
+        "Shu Yu",
+        "Xiaowei Yang",
+        "Feng Zhao",
+        "Rong Hu",
+        "Yanchun Liang"
+      ],
+      "title": "Online LS-SVM Learning for Classification Problems Based on Incremental Chunk.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1007/978-3-540-30543-9_16",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "Image Matching Based on Singular Value Decomposition.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1002/jcc.10179",
+      "year": "2004"
+    },
+    {
+      "authors": [
+        "Jinshan Li",
+        "Feng Zhao",
+        "Fuqian Jing"
+      ],
+      "title": "An ab initio study of intermolecular interactions of nitromethane dimer and nitromethane trimer.",
+      "venue": {
+        "name": "J. Comput. Chem.",
+        "volume": "24"
+      },
+      "arxiv_link": "https://doi.org/10.1109/IGARSS.2003.1294726",
+      "year": "2003"
+    },
+    {
+      "authors": [
+        "Shihao Tang",
+        "Jindi Wang",
+        "Xin Ding",
+        "Menxin Wu",
+        "Feng Zhao"
+      ],
+      "title": "The design and realization of web-based remote sensing model library.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1137/0912077",
+      "year": "2003"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "S. Lennart Johnsson"
+      ],
+      "title": "The Parallel Multipole Method on the Connection Machine.",
+      "venue": {
+        "name": "SIAM J. Sci. Comput.",
+        "volume": "12"
+      },
+      "arxiv_link": "",
+      "year": "1991"
+    }
+  ]
+}
