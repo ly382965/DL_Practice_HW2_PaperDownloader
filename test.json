@@ -1,0 +1,54 @@
+{
+  "scientist": "Yaqin Zhang",
+  "profile_url": "https://dblp.org/pid/09/2187",
+  "papers": [
+    {
+      "authors": [
+        "Xiaoxue Chen",
+        "Hao Zhao",
+        "Guyue Zhou",
+        "Ya-Qin Zhang"
+      ],
+      "title": "PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2109.05566"
+      },
+      "arxiv_link": "https://arxiv.org/abs/2111.12608",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Xiaoxue Chen",
+        "Tianyu Liu",
+        "Hao Zhao",
+        "Guyue Zhou",
+        "Ya-Qin Zhang"
+      ],
+      "title": "Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2111.12608"
+      },
+      "arxiv_link": "https://arxiv.org/abs/2111.14798",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Pengfei Li",
+        "Yongliang Shi",
+        "Tianyu Liu",
+        "Hao Zhao",
+        "Guyue Zhou",
+        "Ya-Qin Zhang"
+      ],
+      "title": "Semi-supervised Implicit Scene Completion from Sparse LiDAR.",
+      "venue": {
+        "name": "CoRR",
+        "volume": "abs/2111.14798"
+      },
+      "arxiv_link": "https://doi.org/10.1007/s10822-019-00190-3",
+      "year": "2021"
+    }
+  ]
+}

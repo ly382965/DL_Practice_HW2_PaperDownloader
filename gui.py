@@ -102,3 +102,29 @@ class Button:
         text_rect = text_surface.get_rect(center=self.rect.center)
         surface.blit(text_surface, text_rect)
 
+def draw_labels():
+    """Draw static labels"""
+    labels = [
+        ("Name:", (50, 55)),
+        ("Year:", (50, 105)),
+        ("Output File:", (50, 155))
+    ]
+    for text, pos in labels:
+        text_surface = gui.font.render(text, True, gui.COLORS['text'])
+        gui.screen.blit(text_surface, pos)
+
+def draw_message():
+    """Display status messages with partial updates"""
+    global status_message
+    if status_message:
+        # 清除旧消息区域
+        pygame.draw.rect(gui.screen, gui.COLORS['background'], (50, 270, 500, 30))
+        # 绘制新消息
+        msg_surface = gui.font.render(status_message, True, message_color)
+        gui.screen.blit(msg_surface, (50, 270))
+        pygame.display.update((50, 270, 500, 30))  # 局部更新
+        
+        # Auto-clear after 10 seconds
+        if pygame.time.get_ticks() > message_display_start + 10000:
+            status_message = ""
+            pygame.display.update((50, 270, 500, 30))  # 清除区域更新

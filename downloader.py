@@ -6,10 +6,11 @@ import os
 def download_papers(scientist, year, output_file):
     """
     下载指定科学家在给定年份的论文，并保存到 JSON 文件中。
+    当 year 为 -1 时，下载所有年份的数据。
 
     参数:
       scientist: 科学家姓名，用于在 dblp 搜索。
-      year: 年份过滤条件，只有年份匹配的论文会被保存。
+      year: 年份过滤条件，只有年份匹配的论文会被保存；传入 -1 时不过滤。
       output_file: 保存输出 JSON 文件的路径及文件名。
     """
     search_url = "https://dblp.org/search?q=" + requests.utils.quote(scientist)
@@ -79,8 +80,8 @@ def download_papers(scientist, year, output_file):
             paper_year = year_span.get_text(strip=True) if year_span else ""
             paper_info["year"] = paper_year
             
-            # 根据年份过滤论文
-            if str(year) == paper_year:
+            # 根据年份过滤论文，year 为 -1 时不过滤
+            if int(year) == -1 or str(year) == paper_year:
                 result.append(paper_info)
 
     # 保存到 JSON 文件
@@ -92,6 +93,9 @@ def download_papers(scientist, year, output_file):
         }, f, ensure_ascii=False, indent=2)
 
     print(f"数据已保存至 {os.path.abspath(output_file)}")
+
+    # 返回下载结果
+    return {"success": True, "count": len(result)}
 
 # 示例调用：
 if __name__ == "__main__":

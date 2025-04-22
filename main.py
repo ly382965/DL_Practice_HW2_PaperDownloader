@@ -22,8 +22,8 @@ def validate_inputs():
         
     try:
         year = int(textbox_year.text)
-        if year < 1900 or year > 2100:
-            errors.append("Year must be between 1900-2100")
+        if not (( year >= 1970 and year <= 2025 ) or year == -1):
+            errors.append("Year must be between 1970-2025,enter -1 to download all papers")
     except ValueError:
         errors.append("Invalid year format")
         
