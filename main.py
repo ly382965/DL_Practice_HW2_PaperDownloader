@@ -22,14 +22,14 @@ def validate_inputs():
         
     try:
         year = int(textbox_year.text)
-        if not (( year >= 1970 and year <= 2025 ) or year == -1):
-            errors.append("Year must be between 1970-2025,enter -1 to download all papers")
+        if not ((year >= 1970 and year <= 2025) or year == -1):
+            errors.append("Year must be between 1970-2025, or -1 for all years")
     except ValueError:
         errors.append("Invalid year format")
         
-    if not textbox_output.text.strip():
-        errors.append("Output filename required")
-    elif not textbox_output.text.endswith(".json"):
+    # Only validate file extension if output text is provided.
+    output_text = textbox_output.text.strip()
+    if output_text and not output_text.endswith(".json"):
         errors.append("File extension must be .json")
         
     return errors
@@ -50,6 +50,13 @@ def download_action():
     scientist = textbox_scientist.text.strip()
     year = int(textbox_year.text.strip())
     output_file = textbox_output.text.strip()
+    
+    # If no output file is provided, set the default filename.
+    if not output_file:
+        if year == -1:
+            output_file = f"{scientist}_all.json"
+        else:
+            output_file = f"{scientist}_{year}.json"
 
     try:
         # Call download API
@@ -86,42 +93,42 @@ def draw_message():
     """Display status messages with partial updates"""
     global status_message
     if status_message:
-        # 清除旧消息区域
+        # Clear old message area
         pygame.draw.rect(gui.screen, gui.COLORS['background'], (50, 270, 500, 30))
-        # 绘制新消息
+        # Draw new message
         msg_surface = gui.font.render(status_message, True, message_color)
         gui.screen.blit(msg_surface, (50, 270))
-        pygame.display.update((50, 270, 500, 30))  # 局部更新
+        pygame.display.update((50, 270, 500, 30))  # Partial update
         
         # Auto-clear after 10 seconds
         if pygame.time.get_ticks() > message_display_start + 10000:
             status_message = ""
-            pygame.display.update((50, 270, 500, 30))  # 清除区域更新
+            pygame.display.update((50, 270, 500, 30))  # Clear area update
 
 # Main loop
 clock = pygame.time.Clock()
 running = True
 
 while running:
-    delta_time = clock.tick(60) / 1000  # 提升至60 FPS
+    delta_time = clock.tick(60) / 1000  # Increase to 60 FPS
     
-    # 事件处理
+    # Event handling
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
             
-        # 组件事件分发
+        # Component event dispatch
         textbox_scientist.handle_event(event)
         textbox_year.handle_event(event)
         textbox_output.handle_event(event)
         download_button.handle_event(event)
 
-    # 组件状态更新
+    # Component status update
     textbox_scientist.update(delta_time)
     textbox_year.update(delta_time)
     textbox_output.update(delta_time)
 
-    # 高效渲染
+    # Efficient rendering
     gui.screen.fill(gui.COLORS['background'])
     draw_labels()
     textbox_scientist.draw(gui.screen)
