@@ -4,233 +4,183 @@
   "papers": [
     {
       "authors": [
-        "Ruihong Li",
-        "Fan Yang",
-        "Dezhao Lin",
-        "Chenghong Li",
-        "Hongwei Chen",
-        "Wenbo Qian",
-        "Sheng Jia",
+        "Tongyuan Zhao",
+        "Yue Sun",
         "Feng Zhao"
       ],
-      "title": "Dynamic Properties Analysis of a New Kind of Inter-Connected Hydro-Pneumatic Strut.",
+      "title": "Refined Eulerian numbers and ballot permutations.",
       "venue": {
-        "name": "IEEE Access",
-        "volume": "9"
+        "name": "Adv. Appl. Math.",
+        "volume": "134"
       },
-      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3085980",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2022.3150862",
+      "year": "2022"
     },
     {
       "authors": [
-        "Zhengxiang Zhang",
-        "Haibin Zhou",
-        "Dongsheng Liu",
+        "Peng Zhang",
         "Feng Zhao",
-        "Wentao Li",
-        "Chao Tang"
+        "Peng Liu",
+        "Mengwei Li"
       ],
-      "title": "The Effect of Nano-Silica Modified With Silane Coupling Agents on the Diffusion Behavior of Water Molecules in Palm Oil Based on Molecular Simulation.",
+      "title": "Efficient Lightweight Attention Network for Face Recognition.",
       "venue": {
         "name": "IEEE Access",
-        "volume": "9"
+        "volume": "10"
       },
-      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3133664",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1016/j.amc.2022.127479",
+      "year": "2022"
     },
     {
       "authors": [
-        "Hui Yi",
-        "Xiangning Chen",
+        "Qingdong Sun",
+        "Junchao Ren",
+        "Feng Zhao"
+      ],
+      "title": "Sliding mode control of discrete-time interval type-2 fuzzy Markov jump systems with the preview target signal.",
+      "venue": {
+        "name": "Appl. Math. Comput.",
+        "volume": "435"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.cmpb.2022.107107",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Weiwei Yu",
+        "Dian Jin",
+        "Wenfeng Cai",
+        "Feng Zhao",
+        "Xiaokun Zhang"
+      ],
+      "title": "Towards tacit knowledge mining within context: Visual cognitive graph model and eye movement image interpretation.",
+      "venue": {
+        "name": "Comput. Methods Programs Biomed.",
+        "volume": "226"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.csi.2021.103602",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Huifang Yu",
+        "Junze Liu",
+        "Zhicang Wang",
+        "Feng Zhao"
+      ],
+      "title": "Certificateless ring signcryption for multi-source network coding.",
+      "venue": {
+        "name": "Comput. Stand. Interfaces",
+        "volume": "81"
+      },
+      "arxiv_link": "https://doi.org/10.1080/17538947.2022.2092658",
+      "year": "2022"
+    },
+    {
+      "authors": [
         "Decheng Wang",
-        "Shuhan Du",
-        "Bijie Xu",
+        "Feng Zhao",
+        "Hui Yi",
+        "Yinan Li",
+        "Xiangning Chen"
+      ],
+      "title": "An unsupervised heterogeneous change detection method based on image translation network and post-processing algorithm.",
+      "venue": {
+        "name": "Int. J. Digit. Earth",
+        "volume": "15"
+      },
+      "arxiv_link": "https://doi.org/10.1016/j.knosys.2022.108176",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Bo Li",
+        "Qi Wang",
+        "Yuan Yu",
+        "Meng-Ze Sun",
+        "Liang-Xia Chen",
+        "Zhongliang Xiang",
+        "Feng Zhao",
+        "Qingcong Lv",
+        "Zhiyong An"
+      ],
+      "title": "A novel risk-control model for the online portfolio selection of high-frequency transactions.",
+      "venue": {
+        "name": "Knowl. Based Syst.",
+        "volume": "240"
+      },
+      "arxiv_link": "https://doi.org/10.1109/MNET.001.2100757",
+      "year": "2022"
+    },
+    {
+      "authors": [
+        "Peng Liu",
         "Feng Zhao"
       ],
-      "title": "An Epipolar Resampling Method for Multi-View High Resolution Satellite Images Based on Block.",
+      "title": "Millimeter-Wave mMIMO-NOMA Communication System Design in a Complex Blocking Environment.",
       "venue": {
-        "name": "IEEE Access",
-        "volume": "9"
+        "name": "IEEE Netw.",
+        "volume": "36"
       },
-      "arxiv_link": "https://doi.org/10.3390/e23010065",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.3390/s22166186",
+      "year": "2022"
     },
     {
       "authors": [
+        "Gujing Han",
+        "Tao Li",
+        "Qiang Li",
         "Feng Zhao",
-        "Min Ye",
-        "Shao-Lun Huang"
+        "Min Zhang",
+        "Ruijie Wang",
+        "Qiwei Yuan",
+        "Kaipei Liu",
+        "Liang Qin"
       ],
-      "title": "Exact Recovery of Stochastic Block Model by Ising Model.",
+      "title": "Improved Algorithm for Insulator and Its Defect Detection Based on YOLOX.",
       "venue": {
-        "name": "Entropy",
-        "volume": "23"
-      },
-      "arxiv_link": "https://doi.org/10.1371/journal.pcbi.1009255",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Lara Goscé",
-        "Gerard J. Abou Jaoude",
-        "David Jacob Kedziora",
-        "Clemens Benedikt",
-        "Azfar Hussain",
-        "Sarah Jarvis",
-        "Alena Skrahina",
-        "Dzmitry Klimuk",
-        "Henadz Hurevich",
-        "Feng Zhao",
-        "Nicole Fraser-Hurt",
-        "Nejma Cheikh",
-        "Marelize Gorgens",
-        "David J. Wilson",
-        "Romesh G. Abeysuriya",
-        "Rowan Martin-Hughes",
-        "Sherrie L. Kelly",
-        "Anna Roberts",
-        "Robyn M. Stuart",
-        "Tom Palmer",
-        "Jasmina Panovska-Griffiths",
-        "Cliff C. Kerr",
-        "David P. Wilson",
-        "Hassan Haghparast-Bidgoli",
-        "Jolene Skordis",
-        "Ibrahim Abubakar"
-      ],
-      "title": "Optima TB: A tool to help optimally allocate tuberculosis spending.",
-      "venue": {
-        "name": "PLoS Comput. Biol.",
-        "volume": "17"
-      },
-      "arxiv_link": "https://doi.org/10.3390/rs13081535",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Fugen Jiang",
-        "Feng Zhao",
-        "Kaisen Ma",
-        "Dongsheng Li",
-        "Hua Sun"
-      ],
-      "title": "Mapping the Forest Canopy Height in Northern China by Synergizing ICESat-2 with Sentinel-2 Using a Stacking Algorithm.",
-      "venue": {
-        "name": "Remote. Sens.",
-        "volume": "13"
-      },
-      "arxiv_link": "https://www.scpe.org/index.php/scpe/article/view/1881",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Zhifeng Hu",
-        "Feng Zhao",
-        "Lina Qin",
-        "Hongkai Lin"
-      ],
-      "title": "Network Virus and Computer Network Security Detection Technology Optimization.",
-      "venue": {
-        "name": "Scalable Comput. Pract. Exp.",
+        "name": "Sensors",
         "volume": "22"
       },
-      "arxiv_link": "https://doi.org/10.1109/TCSII.2021.3079153",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1109/BDCAT56447.2022.00026",
+      "year": "2022"
     },
     {
       "authors": [
-        "Haiquan Zhao",
+        "Abdi Yamil Vicenciodelmoral",
+        "Md. Mehedi Hasan Tanim",
         "Feng Zhao",
-        "Gen Wang",
-        "Lijun Zhou",
-        "Pucha Song"
+        "Xinghui Zhao"
       ],
-      "title": "Affine Projection Algorithm for Censored Regression.",
-      "venue": {
-        "name": "IEEE Trans. Circuits Syst. II Express Briefs",
-        "volume": "68"
-      },
-      "arxiv_link": "https://doi.org/10.1145/3511716.3511717",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Feng Zhao",
-        "Mohammed K. A. Kaabar"
-      ],
-      "title": "Research on Strategy Optimization of 5G NSA Based on Mobile Learning.",
+      "title": "Supporting Green Neuromorphic Computing: Machine Learning Guided Microfabrication for Resistive Random Access Memory.",
       "venue": {},
-      "arxiv_link": "https://doi.org/10.1145/3511716.3511733",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1109/BDCAT56447.2022.00034",
+      "year": "2022"
     },
     {
       "authors": [
-        "Zhifeng Hu",
-        "Feng Zhao",
-        "Xiaona Zhao"
-      ],
-      "title": "Research on the Design of Smart Classroom Mode from the Perspective of Big Data.",
-      "venue": {},
-      "arxiv_link": "https://doi.org/10.1109/GCWkshps52748.2021.9682111",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Siyuan Liang",
-        "Xuefen Wang",
-        "Jianbo Du",
-        "Feng Zhao",
-        "Haotong Cao"
-      ],
-      "title": "LMS Channel Estimation Algorithm for IM/DD-OFDM/OQAM-PON Systems in 5G-Enabled Industrial Internet.",
-      "venue": {},
-      "arxiv_link": "https://doi.org/10.1145/3460569.3460588",
-      "year": "2021"
-    },
-    {
-      "authors": [
+        "Md. Mehedi Hasan Tanim",
+        "Abdi Yamil Vicenciodelmoral",
+        "Zoe Templin",
+        "Xinghui Zhao",
         "Feng Zhao"
       ],
-      "title": "The Extendible Functional Concepts of Logic And Its Applications for the Classical Logic.",
+      "title": "Honey-CNT based Resistive Switching Device for Neuromorphic Computing Applications.",
       "venue": {},
-      "arxiv_link": "https://doi.org/10.1109/ICSPCC52875.2021.9564493",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1145/3572549.3572601",
+      "year": "2022"
     },
     {
       "authors": [
-        "Xinyue Xiang",
+        "Weiwei Yu",
+        "Jacques Bangamwabo",
         "Feng Zhao",
-        "Boya Peng",
-        "Hao Qiu",
-        "Zhenhua Tan",
-        "Zhikang Shuai"
+        "Xiaokun Zhang"
       ],
-      "title": "A YOLO-v4-Based Risk Detection Method for Power High Voltage Operation Scene.",
+      "title": "Analysis of Learner's Behavior in Online Video Course Based on Eye Movement Tracking.",
       "venue": {},
-      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611438",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Jin Sima",
-        "Feng Zhao",
-        "Shao-Lun Huang"
-      ],
-      "title": "Exact Recovery in the Balanced Stochastic Block Model with Side Information.",
-      "venue": {},
-      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611481",
-      "year": "2021"
-    },
-    {
-      "authors": [
-        "Feng Zhao",
-        "Jin Sima",
-        "Shao-Lun Huang"
-      ],
-      "title": "On the Optimal Error Rate of Stochastic Block Model with Symmetric Side Information.",
-      "venue": {},
-      "arxiv_link": "https://doi.org/10.1109/ACCESS.2020.3044921",
-      "year": "2021"
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3072197",
+      "year": "2022"
     }
   ]
 }

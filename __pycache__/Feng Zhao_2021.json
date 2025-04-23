@@ -1,0 +1,236 @@
+{
+  "scientist": "Feng Zhao",
+  "profile_url": "https://dblp.org/pid/181/2734",
+  "papers": [
+    {
+      "authors": [
+        "Ruihong Li",
+        "Fan Yang",
+        "Dezhao Lin",
+        "Chenghong Li",
+        "Hongwei Chen",
+        "Wenbo Qian",
+        "Sheng Jia",
+        "Feng Zhao"
+      ],
+      "title": "Dynamic Properties Analysis of a New Kind of Inter-Connected Hydro-Pneumatic Strut.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3085980",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhengxiang Zhang",
+        "Haibin Zhou",
+        "Dongsheng Liu",
+        "Feng Zhao",
+        "Wentao Li",
+        "Chao Tang"
+      ],
+      "title": "The Effect of Nano-Silica Modified With Silane Coupling Agents on the Diffusion Behavior of Water Molecules in Palm Oil Based on Molecular Simulation.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2021.3133664",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Hui Yi",
+        "Xiangning Chen",
+        "Decheng Wang",
+        "Shuhan Du",
+        "Bijie Xu",
+        "Feng Zhao"
+      ],
+      "title": "An Epipolar Resampling Method for Multi-View High Resolution Satellite Images Based on Block.",
+      "venue": {
+        "name": "IEEE Access",
+        "volume": "9"
+      },
+      "arxiv_link": "https://doi.org/10.3390/e23010065",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Min Ye",
+        "Shao-Lun Huang"
+      ],
+      "title": "Exact Recovery of Stochastic Block Model by Ising Model.",
+      "venue": {
+        "name": "Entropy",
+        "volume": "23"
+      },
+      "arxiv_link": "https://doi.org/10.1371/journal.pcbi.1009255",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Lara Goscé",
+        "Gerard J. Abou Jaoude",
+        "David Jacob Kedziora",
+        "Clemens Benedikt",
+        "Azfar Hussain",
+        "Sarah Jarvis",
+        "Alena Skrahina",
+        "Dzmitry Klimuk",
+        "Henadz Hurevich",
+        "Feng Zhao",
+        "Nicole Fraser-Hurt",
+        "Nejma Cheikh",
+        "Marelize Gorgens",
+        "David J. Wilson",
+        "Romesh G. Abeysuriya",
+        "Rowan Martin-Hughes",
+        "Sherrie L. Kelly",
+        "Anna Roberts",
+        "Robyn M. Stuart",
+        "Tom Palmer",
+        "Jasmina Panovska-Griffiths",
+        "Cliff C. Kerr",
+        "David P. Wilson",
+        "Hassan Haghparast-Bidgoli",
+        "Jolene Skordis",
+        "Ibrahim Abubakar"
+      ],
+      "title": "Optima TB: A tool to help optimally allocate tuberculosis spending.",
+      "venue": {
+        "name": "PLoS Comput. Biol.",
+        "volume": "17"
+      },
+      "arxiv_link": "https://doi.org/10.3390/rs13081535",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Fugen Jiang",
+        "Feng Zhao",
+        "Kaisen Ma",
+        "Dongsheng Li",
+        "Hua Sun"
+      ],
+      "title": "Mapping the Forest Canopy Height in Northern China by Synergizing ICESat-2 with Sentinel-2 Using a Stacking Algorithm.",
+      "venue": {
+        "name": "Remote. Sens.",
+        "volume": "13"
+      },
+      "arxiv_link": "https://www.scpe.org/index.php/scpe/article/view/1881",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhifeng Hu",
+        "Feng Zhao",
+        "Lina Qin",
+        "Hongkai Lin"
+      ],
+      "title": "Network Virus and Computer Network Security Detection Technology Optimization.",
+      "venue": {
+        "name": "Scalable Comput. Pract. Exp.",
+        "volume": "22"
+      },
+      "arxiv_link": "https://doi.org/10.1109/TCSII.2021.3079153",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Haiquan Zhao",
+        "Feng Zhao",
+        "Gen Wang",
+        "Lijun Zhou",
+        "Pucha Song"
+      ],
+      "title": "Affine Projection Algorithm for Censored Regression.",
+      "venue": {
+        "name": "IEEE Trans. Circuits Syst. II Express Briefs",
+        "volume": "68"
+      },
+      "arxiv_link": "https://doi.org/10.1145/3511716.3511717",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Mohammed K. A. Kaabar"
+      ],
+      "title": "Research on Strategy Optimization of 5G NSA Based on Mobile Learning.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3511716.3511733",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Zhifeng Hu",
+        "Feng Zhao",
+        "Xiaona Zhao"
+      ],
+      "title": "Research on the Design of Smart Classroom Mode from the Perspective of Big Data.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/GCWkshps52748.2021.9682111",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Siyuan Liang",
+        "Xuefen Wang",
+        "Jianbo Du",
+        "Feng Zhao",
+        "Haotong Cao"
+      ],
+      "title": "LMS Channel Estimation Algorithm for IM/DD-OFDM/OQAM-PON Systems in 5G-Enabled Industrial Internet.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1145/3460569.3460588",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao"
+      ],
+      "title": "The Extendible Functional Concepts of Logic And Its Applications for the Classical Logic.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ICSPCC52875.2021.9564493",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Xinyue Xiang",
+        "Feng Zhao",
+        "Boya Peng",
+        "Hao Qiu",
+        "Zhenhua Tan",
+        "Zhikang Shuai"
+      ],
+      "title": "A YOLO-v4-Based Risk Detection Method for Power High Voltage Operation Scene.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611438",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Jin Sima",
+        "Feng Zhao",
+        "Shao-Lun Huang"
+      ],
+      "title": "Exact Recovery in the Balanced Stochastic Block Model with Side Information.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ITW48936.2021.9611481",
+      "year": "2021"
+    },
+    {
+      "authors": [
+        "Feng Zhao",
+        "Jin Sima",
+        "Shao-Lun Huang"
+      ],
+      "title": "On the Optimal Error Rate of Stochastic Block Model with Symmetric Side Information.",
+      "venue": {},
+      "arxiv_link": "https://doi.org/10.1109/ACCESS.2020.3044921",
+      "year": "2021"
+    }
+  ]
+}
